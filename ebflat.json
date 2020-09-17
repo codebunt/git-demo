@@ -1,0 +1,388 @@
+{
+    "nodes": [
+        {
+            "name": "Production"
+        },
+        {
+            "name": "Natural gas"
+        },
+        {
+            "name": "Crude oil"
+        },
+        {
+            "name": "Natural gas liquids"
+        },
+        {
+            "name": "Solar photovoltaics"
+        },
+        {
+            "name": "Memo: Renewables"
+        },
+        {
+            "name": "Imports"
+        },
+        {
+            "name": "Motor gasoline excl. biofuels"
+        },
+        {
+            "name": "Gas/diesel oil excl. biofuels"
+        },
+        {
+            "name": "Fuel oil"
+        },
+        {
+            "name": "Bitumen"
+        },
+        {
+            "name": "Charcoal"
+        },
+        {
+            "name": "Exports"
+        },
+        {
+            "name": "Liquefied petroleum gases (LPG)"
+        },
+        {
+            "name": "Kerosene type jet fuel excl. biofuels"
+        },
+        {
+            "name": "Other kerosene"
+        },
+        {
+            "name": "Naphtha"
+        },
+        {
+            "name": "International marine bunkers"
+        },
+        {
+            "name": "International aviation bunkers"
+        },
+        {
+            "name": "Stock changes"
+        },
+        {
+            "name": "Transfers"
+        },
+        {
+            "name": "Ethane"
+        },
+        {
+            "name": "Main activity producer electricity plants"
+        },
+        {
+            "name": "Electricity"
+        },
+        {
+            "name": "Autoproducer electricity plants"
+        },
+        {
+            "name": "Oil refineries"
+        },
+        {
+            "name": "Refinery gas"
+        },
+        {
+            "name": "Other oil products"
+        },
+        {
+            "name": "Statistical differences"
+        }
+    ],
+    "links": [
+        {
+            "source": "Production",
+            "target": "Natural gas",
+            "value": 78009
+        },
+        {
+            "source": "Production",
+            "target": "Crude oil",
+            "value": 504365
+        },
+        {
+            "source": "Production",
+            "target": "Natural gas liquids",
+            "value": 64362
+        },
+        {
+            "source": "Production",
+            "target": "Solar photovoltaics",
+            "value": 13
+        },
+        {
+            "source": "Production",
+            "target": "Memo: Renewables",
+            "value": 13
+        },
+        {
+            "source": "Imports",
+            "target": "Motor gasoline excl. biofuels",
+            "value": 9050
+        },
+        {
+            "source": "Imports",
+            "target": "Gas/diesel oil excl. biofuels",
+            "value": 4519
+        },
+        {
+            "source": "Imports",
+            "target": "Fuel oil",
+            "value": 10073
+        },
+        {
+            "source": "Imports",
+            "target": "Bitumen",
+            "value": 1611
+        },
+        {
+            "source": "Imports",
+            "target": "Charcoal",
+            "value": 7
+        },
+        {
+            "source": "Imports",
+            "target": "Memo: Renewables",
+            "value": 7
+        },
+        {
+            "source": "Crude oil",
+            "target": "Exports",
+            "value": 352882
+        },
+        {
+            "source": "Natural gas liquids",
+            "target": "Exports",
+            "value": 922
+        },
+        {
+            "source": "Liquefied petroleum gases (LPG)",
+            "target": "Exports",
+            "value": 27798
+        },
+        {
+            "source": "Motor gasoline excl. biofuels",
+            "target": "Exports",
+            "value": 8312
+        },
+        {
+            "source": "Kerosene type jet fuel excl. biofuels",
+            "target": "Exports",
+            "value": 287
+        },
+        {
+            "source": "Other kerosene",
+            "target": "Exports",
+            "value": 7301
+        },
+        {
+            "source": "Gas/diesel oil excl. biofuels",
+            "target": "Exports",
+            "value": 30599
+        },
+        {
+            "source": "Fuel oil",
+            "target": "Exports",
+            "value": 4480
+        },
+        {
+            "source": "Naphtha",
+            "target": "Exports",
+            "value": 18078
+        },
+        {
+            "source": "Fuel oil",
+            "target": "International marine bunkers",
+            "value": 3193
+        },
+        {
+            "source": "Kerosene type jet fuel excl. biofuels",
+            "target": "International aviation bunkers",
+            "value": 3271
+        },
+        {
+            "source": "Crude oil",
+            "target": "Stock changes",
+            "value": 3831
+        },
+        {
+            "source": "Stock changes",
+            "target": "Liquefied petroleum gases (LPG)",
+            "value": 14
+        },
+        {
+            "source": "Motor gasoline excl. biofuels",
+            "target": "Stock changes",
+            "value": 182
+        },
+        {
+            "source": "Stock changes",
+            "target": "Other kerosene",
+            "value": 223
+        },
+        {
+            "source": "Stock changes",
+            "target": "Gas/diesel oil excl. biofuels",
+            "value": 190
+        },
+        {
+            "source": "Stock changes",
+            "target": "Fuel oil",
+            "value": 18
+        },
+        {
+            "source": "Natural gas liquids",
+            "target": "Transfers",
+            "value": 54410
+        },
+        {
+            "source": "Transfers",
+            "target": "Ethane",
+            "value": 14855
+        },
+        {
+            "source": "Transfers",
+            "target": "Liquefied petroleum gases (LPG)",
+            "value": 31033
+        },
+        {
+            "source": "Transfers",
+            "target": "Naphtha",
+            "value": 11446
+        },
+        {
+            "source": "Natural gas",
+            "target": "Main activity producer electricity plants",
+            "value": 20879
+        },
+        {
+            "source": "Crude oil",
+            "target": "Main activity producer electricity plants",
+            "value": 20047
+        },
+        {
+            "source": "Gas/diesel oil excl. biofuels",
+            "target": "Main activity producer electricity plants",
+            "value": 9194
+        },
+        {
+            "source": "Fuel oil",
+            "target": "Main activity producer electricity plants",
+            "value": 3609
+        },
+        {
+            "source": "Solar photovoltaics",
+            "target": "Main activity producer electricity plants",
+            "value": 13
+        },
+        {
+            "source": "Main activity producer electricity plants",
+            "target": "Electricity",
+            "value": 17793
+        },
+        {
+            "source": "Memo: Renewables",
+            "target": "Main activity producer electricity plants",
+            "value": 13
+        },
+        {
+            "source": "Natural gas",
+            "target": "Autoproducer electricity plants",
+            "value": 31466
+        },
+        {
+            "source": "Crude oil",
+            "target": "Autoproducer electricity plants",
+            "value": 4306
+        },
+        {
+            "source": "Gas/diesel oil excl. biofuels",
+            "target": "Autoproducer electricity plants",
+            "value": 1940
+        },
+        {
+            "source": "Fuel oil",
+            "target": "Autoproducer electricity plants",
+            "value": 820
+        },
+        {
+            "source": "Autoproducer electricity plants",
+            "target": "Electricity",
+            "value": 12117
+        },
+        {
+            "source": "Crude oil",
+            "target": "Oil refineries",
+            "value": 127001
+        },
+        {
+            "source": "Natural gas liquids",
+            "target": "Oil refineries",
+            "value": 9031
+        },
+        {
+            "source": "Oil refineries",
+            "target": "Refinery gas",
+            "value": 4940
+        },
+        {
+            "source": "Oil refineries",
+            "target": "Liquefied petroleum gases (LPG)",
+            "value": 1515
+        },
+        {
+            "source": "Oil refineries",
+            "target": "Motor gasoline excl. biofuels",
+            "value": 25536
+        },
+        {
+            "source": "Oil refineries",
+            "target": "Kerosene type jet fuel excl. biofuels",
+            "value": 4603
+        },
+        {
+            "source": "Oil refineries",
+            "target": "Other kerosene",
+            "value": 7607
+        },
+        {
+            "source": "Oil refineries",
+            "target": "Gas/diesel oil excl. biofuels",
+            "value": 54612
+        },
+        {
+            "source": "Oil refineries",
+            "target": "Fuel oil",
+            "value": 24527
+        },
+        {
+            "source": "Oil refineries",
+            "target": "Naphtha",
+            "value": 9392
+        },
+        {
+            "source": "Oil refineries",
+            "target": "Bitumen",
+            "value": 1508
+        },
+        {
+            "source": "Oil refineries",
+            "target": "Other oil products",
+            "value": 950
+        },
+        {
+            "source": "Statistical differences",
+            "target": "Crude oil",
+            "value": 6022
+        },
+        {
+            "source": "Statistical differences",
+            "target": "Gas/diesel oil excl. biofuels",
+            "value": 1166
+        },
+        {
+            "source": "Electricity",
+            "target": "Statistical differences",
+            "value": 1467
+        }
+    ]
+}
