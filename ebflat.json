@@ -86,6 +86,12 @@
         },
         {
             "name": "Statistical differences"
+        },
+        {
+            "name": "Oil and gas extraction"
+        },
+        {
+            "name": "Own use in electricity, CHP and heat plants"
         }
     ],
     "links": [
@@ -383,6 +389,51 @@
             "source": "Electricity",
             "target": "Statistical differences",
             "value": 1467
+        },
+        {
+            "source": "Natural gas",
+            "target": "Oil and gas extraction",
+            "value": 3120
+        },
+        {
+            "source": "Liquefied petroleum gases (LPG)",
+            "target": "Oil and gas extraction",
+            "value": 428
+        },
+        {
+            "source": "Gas/diesel oil excl. biofuels",
+            "target": "Oil and gas extraction",
+            "value": 1065
+        },
+        {
+            "source": "Crude oil",
+            "target": "Oil refineries",
+            "value": 1
+        },
+        {
+            "source": "Refinery gas",
+            "target": "Oil refineries",
+            "value": 4940
+        },
+        {
+            "source": "Fuel oil",
+            "target": "Oil refineries",
+            "value": 953
+        },
+        {
+            "source": "Other oil products",
+            "target": "Oil refineries",
+            "value": 770
+        },
+        {
+            "source": "Electricity",
+            "target": "Oil refineries",
+            "value": 1181
+        },
+        {
+            "source": "Electricity",
+            "target": "Own use in electricity, CHP and heat plants",
+            "value": 804
         }
     ]
 }
