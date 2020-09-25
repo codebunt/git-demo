@@ -22,10 +22,10 @@
             "name": "Imports"
         },
         {
-            "name": "Motor gasoline excl. biofuels"
+            "name": "Motor gasoline excl biofuels"
         },
         {
-            "name": "Gas/diesel oil excl. biofuels"
+            "name": "Gas/diesel oil excl biofuels"
         },
         {
             "name": "Fuel oil"
@@ -43,7 +43,7 @@
             "name": "Liquefied petroleum gases (LPG)"
         },
         {
-            "name": "Kerosene type jet fuel excl. biofuels"
+            "name": "Kerosene type jet fuel excl biofuels"
         },
         {
             "name": "Other kerosene"
@@ -155,12 +155,12 @@
         },
         {
             "source": "Imports",
-            "target": "Motor gasoline excl. biofuels",
+            "target": "Motor gasoline excl biofuels",
             "value": 9050
         },
         {
             "source": "Imports",
-            "target": "Gas/diesel oil excl. biofuels",
+            "target": "Gas/diesel oil excl biofuels",
             "value": 4519
         },
         {
@@ -199,12 +199,12 @@
             "value": 27798
         },
         {
-            "source": "Motor gasoline excl. biofuels",
+            "source": "Motor gasoline excl biofuels",
             "target": "Exports",
             "value": 8312
         },
         {
-            "source": "Kerosene type jet fuel excl. biofuels",
+            "source": "Kerosene type jet fuel excl biofuels",
             "target": "Exports",
             "value": 287
         },
@@ -214,7 +214,7 @@
             "value": 7301
         },
         {
-            "source": "Gas/diesel oil excl. biofuels",
+            "source": "Gas/diesel oil excl biofuels",
             "target": "Exports",
             "value": 30599
         },
@@ -234,7 +234,7 @@
             "value": 3193
         },
         {
-            "source": "Kerosene type jet fuel excl. biofuels",
+            "source": "Kerosene type jet fuel excl biofuels",
             "target": "International aviation bunkers",
             "value": 3271
         },
@@ -249,7 +249,7 @@
             "value": 14
         },
         {
-            "source": "Motor gasoline excl. biofuels",
+            "source": "Motor gasoline excl biofuels",
             "target": "Stock changes",
             "value": 182
         },
@@ -260,7 +260,7 @@
         },
         {
             "source": "Stock changes",
-            "target": "Gas/diesel oil excl. biofuels",
+            "target": "Gas/diesel oil excl biofuels",
             "value": 190
         },
         {
@@ -299,7 +299,7 @@
             "value": 20047
         },
         {
-            "source": "Gas/diesel oil excl. biofuels",
+            "source": "Gas/diesel oil excl biofuels",
             "target": "Main activity producer electricity plants",
             "value": 9194
         },
@@ -334,7 +334,7 @@
             "value": 4306
         },
         {
-            "source": "Gas/diesel oil excl. biofuels",
+            "source": "Gas/diesel oil excl biofuels",
             "target": "Autoproducer electricity plants",
             "value": 1940
         },
@@ -370,12 +370,12 @@
         },
         {
             "source": "Oil refineries",
-            "target": "Motor gasoline excl. biofuels",
+            "target": "Motor gasoline excl biofuels",
             "value": 25536
         },
         {
             "source": "Oil refineries",
-            "target": "Kerosene type jet fuel excl. biofuels",
+            "target": "Kerosene type jet fuel excl biofuels",
             "value": 4603
         },
         {
@@ -385,7 +385,7 @@
         },
         {
             "source": "Oil refineries",
-            "target": "Gas/diesel oil excl. biofuels",
+            "target": "Gas/diesel oil excl biofuels",
             "value": 54612
         },
         {
@@ -415,7 +415,7 @@
         },
         {
             "source": "Statistical differences",
-            "target": "Gas/diesel oil excl. biofuels",
+            "target": "Gas/diesel oil excl biofuels",
             "value": 1166
         },
         {
@@ -434,7 +434,7 @@
             "value": 428
         },
         {
-            "source": "Gas/diesel oil excl. biofuels",
+            "source": "Gas/diesel oil excl biofuels",
             "target": "Oil and gas extraction",
             "value": 1065
         },
@@ -500,7 +500,7 @@
         },
         {
             "target": "Industry not elsewhere specified",
-            "source": "Gas/diesel oil excl. biofuels",
+            "source": "Gas/diesel oil excl biofuels",
             "value": 3036
         },
         {
@@ -515,17 +515,17 @@
         },
         {
             "target": "Domestic aviation",
-            "source": "Kerosene type jet fuel excl. biofuels",
+            "source": "Kerosene type jet fuel excl biofuels",
             "value": 1045
         },
         {
             "target": "Road",
-            "source": "Motor gasoline excl. biofuels",
+            "source": "Motor gasoline excl biofuels",
             "value": 26092
         },
         {
             "target": "Road",
-            "source": "Gas/diesel oil excl. biofuels",
+            "source": "Gas/diesel oil excl biofuels",
             "value": 14653
         },
         {
