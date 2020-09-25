@@ -92,6 +92,39 @@
         },
         {
             "name": "Own use in electricity, CHP and heat plants"
+        },
+        {
+            "name": "Mining and quarrying"
+        },
+        {
+            "name": "Iron and steel"
+        },
+        {
+            "name": "Chemical and petrochemical"
+        },
+        {
+            "name": "Non-metallic minerals"
+        },
+        {
+            "name": "Industry not elsewhere specified"
+        },
+        {
+            "name": "Domestic aviation"
+        },
+        {
+            "name": "Road"
+        },
+        {
+            "name": "Residential"
+        },
+        {
+            "name": "Commercial and public services"
+        },
+        {
+            "name": "Final consumption not elsewhere specified"
+        },
+        {
+            "name": "Non-energy use industry/transformation/energy"
         }
     ],
     "links": [
@@ -434,6 +467,131 @@
             "source": "Electricity",
             "target": "Own use in electricity, CHP and heat plants",
             "value": 804
+        },
+        {
+            "target": "Mining and quarrying",
+            "source": "Electricity",
+            "value": 20
+        },
+        {
+            "target": "Iron and steel",
+            "source": "Electricity",
+            "value": 312
+        },
+        {
+            "target": "Chemical and petrochemical",
+            "source": "Electricity",
+            "value": 662
+        },
+        {
+            "target": "Non-metallic minerals",
+            "source": "Electricity",
+            "value": 34
+        },
+        {
+            "target": "Industry not elsewhere specified",
+            "source": "Natural gas",
+            "value": 17397
+        },
+        {
+            "target": "Industry not elsewhere specified",
+            "source": "Crude oil",
+            "value": 2318
+        },
+        {
+            "target": "Industry not elsewhere specified",
+            "source": "Gas/diesel oil excl. biofuels",
+            "value": 3036
+        },
+        {
+            "target": "Industry not elsewhere specified",
+            "source": "Fuel oil",
+            "value": 21563
+        },
+        {
+            "target": "Industry not elsewhere specified",
+            "source": "Electricity",
+            "value": 1853
+        },
+        {
+            "target": "Domestic aviation",
+            "source": "Kerosene type jet fuel excl. biofuels",
+            "value": 1045
+        },
+        {
+            "target": "Road",
+            "source": "Motor gasoline excl. biofuels",
+            "value": 26092
+        },
+        {
+            "target": "Road",
+            "source": "Gas/diesel oil excl. biofuels",
+            "value": 14653
+        },
+        {
+            "target": "Residential",
+            "source": "Liquefied petroleum gases (LPG)",
+            "value": 1253
+        },
+        {
+            "target": "Residential",
+            "source": "Other kerosene",
+            "value": 530
+        },
+        {
+            "target": "Residential",
+            "source": "Charcoal",
+            "value": 7
+        },
+        {
+            "target": "Residential",
+            "source": "Electricity",
+            "value": 12301
+        },
+        {
+            "target": "Residential",
+            "source": "Memo: Renewables",
+            "value": 7
+        },
+        {
+            "target": "Commercial and public services",
+            "source": "Electricity",
+            "value": 8458
+        },
+        {
+            "target": "Final consumption not elsewhere specified",
+            "source": "Electricity",
+            "value": 31
+        },
+        {
+            "target": "Non-energy use industry/transformation/energy",
+            "source": "Natural gas",
+            "value": 5147
+        },
+        {
+            "target": "Non-energy use industry/transformation/energy",
+            "source": "Ethane",
+            "value": 14855
+        },
+        {
+            "target": "Non-energy use industry/transformation/energy",
+            "source": "Liquefied petroleum gases (LPG)",
+            "value": 3083
+        },
+        {
+            "target": "Non-energy use industry/transformation/energy",
+            "source": "Naphtha",
+            "value": 2761
+        },
+        {
+            "target": "Non-energy use industry/transformation/energy",
+            "source": "Bitumen",
+            "value": 3119
+        },
+        {
+            "target": "Non-energy use industry/transformation/energy",
+            "source": "Other oil products",
+            "value": 181
         }
     ]
 }
