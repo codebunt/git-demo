@@ -454,11 +454,6 @@
             "value": 953
         },
         {
-            "source": "Other oil products",
-            "target": "Oil refineries",
-            "value": 770
-        },
-        {
             "source": "Electricity",
             "target": "Oil refineries",
             "value": 1181
