@@ -1,0 +1,1014 @@
+{
+    "Oil shale and oil sands (kt)": {},
+    "Natural gas (TJ-gross)": {
+        "children": [
+            {
+                "name": "Domestic s...",
+                "value": 3628996,
+                "color": "#4cf8b",
+                "label": "Domestic supply",
+                "children": [
+                    {
+                        "name": "Transforma...",
+                        "value": 2435112,
+                        "color": "#a8061b",
+                        "label": "Transformation processes",
+                        "children": [
+                            {
+                                "name": "Main activ...",
+                                "value": 971292,
+                                "color": "#19a175",
+                                "label": "Main activity producer electricity plants"
+                            },
+                            {
+                                "name": "Autoproduc...",
+                                "value": 1463820,
+                                "color": "#ab779d",
+                                "label": "Autoproducer electricity plants"
+                            },
+                            {
+                                "name": "Autoproduc...",
+                                "value": "                                                                                                                                                        ",
+                                "color": "#144e5d",
+                                "label": "Autoproducer CHP plants"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Energy ind...",
+                        "value": 145160,
+                        "color": "#a7e927",
+                        "label": "Energy industry own use",
+                        "children": [
+                            {
+                                "name": "Oil and ga...",
+                                "value": 145160,
+                                "color": "#6dc033",
+                                "label": "Oil and gas extraction"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Final cons...",
+                        "value": 1048724,
+                        "color": "#11d9b3",
+                        "label": "Final consumption",
+                        "children": [
+                            {
+                                "name": "Industry...",
+                                "value": 809288,
+                                "color": "#31c45a",
+                                "label": "Industry",
+                                "children": [
+                                    {
+                                        "name": "Industry n...",
+                                        "value": 809288,
+                                        "color": "#128990",
+                                        "label": "Industry not elsewhere specified"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Non-energy...",
+                                "value": 239436,
+                                "color": "#f90a32",
+                                "label": "Non-energy use",
+                                "children": [
+                                    {
+                                        "name": "Non-energy...",
+                                        "value": 239436,
+                                        "color": "#d7c959",
+                                        "label": "Non-energy use industry/transformation/energy"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Memo: Non-...",
+                "value": 239436,
+                "color": "#90ffd6",
+                "label": "Memo: Non-energy use in chemical/petrochemical"
+            },
+            {
+                "name": "Electricit...",
+                "value": 221836,
+                "color": "#c4f59e",
+                "label": "Electricity output (GWh)",
+                "children": [
+                    {
+                        "name": "Electricit...",
+                        "value": 101466,
+                        "color": "#51f399",
+                        "label": "Electricity output (GWh)-main activity producer electricity plants"
+                    },
+                    {
+                        "name": "Electricit...",
+                        "value": 120370,
+                        "color": "#61f813",
+                        "label": "Electricity output (GWh)-autoproducer electricity plants"
+                    }
+                ]
+            }
+        ]
+    },
+    "Crude oil (kt)": {
+        "children": [
+            {
+                "name": "Domestic s...",
+                "value": 145326,
+                "color": "#1d1788",
+                "label": "Domestic supply",
+                "children": [
+                    {
+                        "name": "Statistica...",
+                        "value": 5927,
+                        "color": "#993d21",
+                        "label": "Statistical differences"
+                    },
+                    {
+                        "name": "Transforma...",
+                        "value": 148970,
+                        "color": "#cb8cb9",
+                        "label": "Transformation processes",
+                        "children": [
+                            {
+                                "name": "Main activ...",
+                                "value": 19731,
+                                "color": "#a4d13f",
+                                "label": "Main activity producer electricity plants"
+                            },
+                            {
+                                "name": "Autoproduc...",
+                                "value": 4238,
+                                "color": "#104cb4",
+                                "label": "Autoproducer electricity plants"
+                            },
+                            {
+                                "name": "Oil refine...",
+                                "value": 125000,
+                                "color": "#b84959",
+                                "label": "Oil refineries"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Energy ind...",
+                        "value": 1,
+                        "color": "#a141ad",
+                        "label": "Energy industry own use",
+                        "children": [
+                            {
+                                "name": "Oil refine...",
+                                "value": 1,
+                                "color": "#8638fa",
+                                "label": "Oil refineries"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Final cons...",
+                        "value": 2282,
+                        "color": "#548462",
+                        "label": "Final consumption",
+                        "children": [
+                            {
+                                "name": "Industry...",
+                                "value": 2282,
+                                "color": "#a683f",
+                                "label": "Industry",
+                                "children": [
+                                    {
+                                        "name": "Industry n...",
+                                        "value": 2282,
+                                        "color": "#503d55",
+                                        "label": "Industry not elsewhere specified"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Electricit...",
+                "value": 82463,
+                "color": "#a81961",
+                "label": "Electricity output (GWh)",
+                "children": [
+                    {
+                        "name": "Electricit...",
+                        "value": 69943,
+                        "color": "#816056",
+                        "label": "Electricity output (GWh)-main activity producer electricity plants"
+                    },
+                    {
+                        "name": "Electricit...",
+                        "value": 12521,
+                        "color": "#fadef2",
+                        "label": "Electricity output (GWh)-autoproducer electricity plants"
+                    }
+                ]
+            }
+        ]
+    },
+    "Natural gas liquids (kt)": {
+        "children": [
+            {
+                "name": "Domestic s...",
+                "value": 59125,
+                "color": "#135826",
+                "label": "Domestic supply",
+                "children": [
+                    {
+                        "name": "Transfers...",
+                        "value": -50709,
+                        "color": "#58aa67",
+                        "label": "Transfers"
+                    },
+                    {
+                        "name": "Transforma...",
+                        "value": 8416,
+                        "color": "#d94f46",
+                        "label": "Transformation processes",
+                        "children": [
+                            {
+                                "name": "Oil refine...",
+                                "value": 8416,
+                                "color": "#1f0c4d",
+                                "label": "Oil refineries"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Refinery feedstocks (kt)": {},
+    "Additives/blending components (kt)": {},
+    "Other hydrocarbons (kt)": {},
+    "Refinery gas (kt)": {
+        "children": [
+            {
+                "name": "Domestic s...",
+                "value": 4300,
+                "color": "#32f1a1",
+                "label": "Domestic supply",
+                "children": [
+                    {
+                        "name": "Energy ind...",
+                        "value": 4300,
+                        "color": "#4a12e2",
+                        "label": "Energy industry own use",
+                        "children": [
+                            {
+                                "name": "Oil refine...",
+                                "value": 4300,
+                                "color": "#5980e1",
+                                "label": "Oil refineries"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Transfers...",
+                        "value": 12590,
+                        "color": "#260444",
+                        "label": "Transfers"
+                    },
+                    {
+                        "name": "Final cons...",
+                        "value": 12590,
+                        "color": "#93e639",
+                        "label": "Final consumption",
+                        "children": [
+                            {
+                                "name": "Non-energy...",
+                                "value": 12590,
+                                "color": "#daca54",
+                                "label": "Non-energy use",
+                                "children": [
+                                    {
+                                        "name": "Non-energy...",
+                                        "value": 12590,
+                                        "color": "#d6ecb8",
+                                        "label": "Non-energy use industry/transformation/energy"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Ethane (kt)": {
+        "children": [
+            {
+                "name": "Memo: Non-...",
+                "value": 12590,
+                "color": "#f40cd",
+                "label": "Memo: Non-energy use in chemical/petrochemical"
+            }
+        ]
+    },
+    "Liquefied petroleum gases (LPG) (kt)": {
+        "children": [
+            {
+                "name": "Domestic s...",
+                "value": -23253,
+                "color": "#f1adeb",
+                "label": "Domestic supply",
+                "children": [
+                    {
+                        "name": "Transfers...",
+                        "value": 27469,
+                        "color": "#a0275",
+                        "label": "Transfers"
+                    },
+                    {
+                        "name": "Energy ind...",
+                        "value": 378,
+                        "color": "#a224ee",
+                        "label": "Energy industry own use",
+                        "children": [
+                            {
+                                "name": "Oil and ga...",
+                                "value": 378,
+                                "color": "#c26ba8",
+                                "label": "Oil and gas extraction"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Final cons...",
+                        "value": 3838,
+                        "color": "#75f3f1",
+                        "label": "Final consumption",
+                        "children": [
+                            {
+                                "name": "Residentia...",
+                                "value": 1109,
+                                "color": "#26a1d6",
+                                "label": "Residential"
+                            },
+                            {
+                                "name": "Non-energy...",
+                                "value": 2729,
+                                "color": "#6aabce",
+                                "label": "Non-energy use",
+                                "children": [
+                                    {
+                                        "name": "Non-energy...",
+                                        "value": 2729,
+                                        "color": "#a1dd81",
+                                        "label": "Non-energy use industry/transformation/energy"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Memo: Non-...",
+                "value": 2729,
+                "color": "#8b65a7",
+                "label": "Memo: Non-energy use in chemical/petrochemical"
+            }
+        ]
+    },
+    "Motor gasoline excl. biofuels (kt)": {
+        "children": [
+            {
+                "name": "Domestic s...",
+                "value": 24385,
+                "color": "#ebc3c",
+                "label": "Domestic supply",
+                "children": [
+                    {
+                        "name": "Final cons...",
+                        "value": 24385,
+                        "color": "#d4a099",
+                        "label": "Final consumption",
+                        "children": [
+                            {
+                                "name": "Transport...",
+                                "value": 24385,
+                                "color": "#da6ddf",
+                                "label": "Transport",
+                                "children": [
+                                    {
+                                        "name": "Road...",
+                                        "value": 24385,
+                                        "color": "#1b165a",
+                                        "label": "Road"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Aviation gasoline (kt)": {},
+    "Gasoline type jet fuel (kt)": {},
+    "Kerosene type jet fuel excl. biofuels (kt)": {
+        "children": [
+            {
+                "name": "Domestic s...",
+                "value": 981,
+                "color": "#200d39",
+                "label": "Domestic supply",
+                "children": [
+                    {
+                        "name": "Final cons...",
+                        "value": 981,
+                        "color": "#483146",
+                        "label": "Final consumption",
+                        "children": [
+                            {
+                                "name": "Transport...",
+                                "value": 981,
+                                "color": "#6c0e31",
+                                "label": "Transport",
+                                "children": [
+                                    {
+                                        "name": "Domestic a...",
+                                        "value": 981,
+                                        "color": "#f4d5da",
+                                        "label": "Domestic aviation"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Other kerosene (kt)": {
+        "children": [
+            {
+                "name": "Domestic s...",
+                "value": 506,
+                "color": "#c17d63",
+                "label": "Domestic supply",
+                "children": [
+                    {
+                        "name": "Final cons...",
+                        "value": 506,
+                        "color": "#57dac8",
+                        "label": "Final consumption",
+                        "children": [
+                            {
+                                "name": "Residentia...",
+                                "value": 506,
+                                "color": "#8b84dd",
+                                "label": "Residential"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Gas/diesel oil excl. biofuels (kt)": {
+        "children": [
+            {
+                "name": "Domestic s...",
+                "value": 27772,
+                "color": "#3574cb",
+                "label": "Domestic supply",
+                "children": [
+                    {
+                        "name": "Statistica...",
+                        "value": 1127,
+                        "color": "#f56dfd",
+                        "label": "Statistical differences"
+                    },
+                    {
+                        "name": "Transforma...",
+                        "value": 10766,
+                        "color": "#2efe7b",
+                        "label": "Transformation processes",
+                        "children": [
+                            {
+                                "name": "Main activ...",
+                                "value": 8890,
+                                "color": "#2a2cc8",
+                                "label": "Main activity producer electricity plants"
+                            },
+                            {
+                                "name": "Autoproduc...",
+                                "value": 1876,
+                                "color": "#e09f28",
+                                "label": "Autoproducer electricity plants"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Energy ind...",
+                        "value": 1029,
+                        "color": "#d3c093",
+                        "label": "Energy industry own use",
+                        "children": [
+                            {
+                                "name": "Oil and ga...",
+                                "value": 1029,
+                                "color": "#434ee6",
+                                "label": "Oil and gas extraction"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Final cons...",
+                        "value": 17104,
+                        "color": "#30ae95",
+                        "label": "Final consumption",
+                        "children": [
+                            {
+                                "name": "Industry...",
+                                "value": 2935,
+                                "color": "#2663a2",
+                                "label": "Industry",
+                                "children": [
+                                    {
+                                        "name": "Industry n...",
+                                        "value": 2935,
+                                        "color": "#6f492e",
+                                        "label": "Industry not elsewhere specified"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Transport...",
+                                "value": 14169,
+                                "color": "#5c7501",
+                                "label": "Transport",
+                                "children": [
+                                    {
+                                        "name": "Road...",
+                                        "value": 14169,
+                                        "color": "#ea63f8",
+                                        "label": "Road"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Fuel oil (kt)": {
+        "children": [
+            {
+                "name": "Domestic s...",
+                "value": 28063,
+                "color": "#4fc953",
+                "label": "Domestic supply",
+                "children": [
+                    {
+                        "name": "Transforma...",
+                        "value": 4613,
+                        "color": "#f4a74b",
+                        "label": "Transformation processes",
+                        "children": [
+                            {
+                                "name": "Main activ...",
+                                "value": 3759,
+                                "color": "#d6ee9a",
+                                "label": "Main activity producer electricity plants"
+                            },
+                            {
+                                "name": "Autoproduc...",
+                                "value": 854,
+                                "color": "#211da1",
+                                "label": "Autoproducer electricity plants"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Energy ind...",
+                        "value": 992,
+                        "color": "#7f6d40",
+                        "label": "Energy industry own use",
+                        "children": [
+                            {
+                                "name": "Oil refine...",
+                                "value": 992,
+                                "color": "#fb8bce",
+                                "label": "Oil refineries"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Final cons...",
+                        "value": 22458,
+                        "color": "#3177b1",
+                        "label": "Final consumption",
+                        "children": [
+                            {
+                                "name": "Industry...",
+                                "value": 22458,
+                                "color": "#264287",
+                                "label": "Industry",
+                                "children": [
+                                    {
+                                        "name": "Industry n...",
+                                        "value": 22458,
+                                        "color": "#2bfe84",
+                                        "label": "Industry not elsewhere specified"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Naphtha (kt)": {
+        "children": [
+            {
+                "name": "Domestic s...",
+                "value": -8081,
+                "color": "#9b5b6c",
+                "label": "Domestic supply",
+                "children": [
+                    {
+                        "name": "Transfers...",
+                        "value": 10649,
+                        "color": "#782005",
+                        "label": "Transfers"
+                    },
+                    {
+                        "name": "Final cons...",
+                        "value": 2568,
+                        "color": "#a9af41",
+                        "label": "Final consumption",
+                        "children": [
+                            {
+                                "name": "Non-energy...",
+                                "value": 2568,
+                                "color": "#ba5f92",
+                                "label": "Non-energy use",
+                                "children": [
+                                    {
+                                        "name": "Non-energy...",
+                                        "value": 2568,
+                                        "color": "#30a468",
+                                        "label": "Non-energy use industry/transformation/energy"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Memo: Non-...",
+                "value": 2568,
+                "color": "#976285",
+                "label": "Memo: Non-energy use in chemical/petrochemical"
+            }
+        ]
+    },
+    "White spirit & SBP (kt)": {},
+    "Lubricants (kt)": {},
+    "Bitumen (kt)": {
+        "children": [
+            {
+                "name": "Domestic s...",
+                "value": 3349,
+                "color": "#7e9d0b",
+                "label": "Domestic supply",
+                "children": [
+                    {
+                        "name": "Final cons...",
+                        "value": 3349,
+                        "color": "#34d58d",
+                        "label": "Final consumption",
+                        "children": [
+                            {
+                                "name": "Non-energy...",
+                                "value": 3349,
+                                "color": "#5cd097",
+                                "label": "Non-energy use",
+                                "children": [
+                                    {
+                                        "name": "Non-energy...",
+                                        "value": 3349,
+                                        "color": "#9c279d",
+                                        "label": "Non-energy use industry/transformation/energy"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Paraffin waxes (kt)": {},
+    "Petroleum coke (kt)": {},
+    "Other oil products (kt)": {
+        "children": [
+            {
+                "name": "Domestic s...",
+                "value": 995,
+                "color": "#5849b6",
+                "label": "Domestic supply",
+                "children": [
+                    {
+                        "name": "Energy ind...",
+                        "value": 806,
+                        "color": "#abbc2e",
+                        "label": "Energy industry own use",
+                        "children": [
+                            {
+                                "name": "Oil refine...",
+                                "value": 806,
+                                "color": "#9e2fde",
+                                "label": "Oil refineries"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Final cons...",
+                        "value": 189,
+                        "color": "#81b5f2",
+                        "label": "Final consumption",
+                        "children": [
+                            {
+                                "name": "Non-energy...",
+                                "value": 189,
+                                "color": "#65776c",
+                                "label": "Non-energy use",
+                                "children": [
+                                    {
+                                        "name": "Non-energy...",
+                                        "value": 189,
+                                        "color": "#fa4f2d",
+                                        "label": "Non-energy use industry/transformation/energy"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Electricit...",
+                "value": 43397,
+                "color": "#3ab37f",
+                "label": "Electricity output (GWh)",
+                "children": [
+                    {
+                        "name": "Electricit...",
+                        "value": 35371,
+                        "color": "#9cc46e",
+                        "label": "Electricity output (GWh)-main activity producer electricity plants"
+                    },
+                    {
+                        "name": "Electricit...",
+                        "value": 8026,
+                        "color": "#b0819",
+                        "label": "Electricity output (GWh)-autoproducer electricity plants"
+                    }
+                ]
+            }
+        ]
+    },
+    "Industrial waste (TJ-net)": {},
+    "Municipal waste (renewable) (TJ-net)": {},
+    "Municipal waste (non-renewable) (TJ-net)": {},
+    "Primary solid biofuels (TJ-net)": {
+        "children": [
+            {
+                "name": "Domestic s...",
+                "value": 5,
+                "color": "#ceebf9",
+                "label": "Domestic supply",
+                "children": [
+                    {
+                        "name": "Final cons...",
+                        "value": 5,
+                        "color": "#224269",
+                        "label": "Final consumption",
+                        "children": [
+                            {
+                                "name": "Residentia...",
+                                "value": 5,
+                                "color": "#e5ea8d",
+                                "label": "Residential"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Biogases (TJ-net)": {},
+    "Biogasoline (kt)": {},
+    "Biodiesels (kt)": {},
+    "Bio jet kerosene (kt)": {},
+    "Other liquid biofuels (kt)": {},
+    "Non-specified primary biofuels/waste (TJ-net)": {},
+    "Charcoal (kt)": {
+        "children": [
+            {
+                "name": "Domestic s...",
+                "value": 10,
+                "color": "#ca7999",
+                "label": "Domestic supply",
+                "children": [
+                    {
+                        "name": "Final cons...",
+                        "value": 10,
+                        "color": "#bc01b8",
+                        "label": "Final consumption",
+                        "children": [
+                            {
+                                "name": "Residentia...",
+                                "value": 10,
+                                "color": "#7d88ff",
+                                "label": "Residential"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Elec/heat output from non-specified manufactured gases": {},
+    "Heat output from non-specified combustible fuels": {},
+    "Nuclear": {},
+    "Hydro": {},
+    "Geothermal (direct use in TJ-net)": {},
+    "Solar photovoltaics": {
+        "children": [
+            {
+                "name": "Electricit...",
+                "value": 155,
+                "color": "#3a97a1",
+                "label": "Electricity output (GWh)",
+                "children": [
+                    {
+                        "name": "Electricit...",
+                        "value": 155,
+                        "color": "#7dad4d",
+                        "label": "Electricity output (GWh)-main activity producer electricity plants"
+                    }
+                ]
+            }
+        ]
+    },
+    "Solar thermal (direct use in TJ-net)": {},
+    "Tide, wave and ocean": {},
+    "Wind": {},
+    "Heat pumps": {},
+    "Electric boilers": {},
+    "Heat from chemical sources": {},
+    "Other sources": {},
+    "Electricity (GWh)": {
+        "children": [
+            {
+                "name": "Domestic s...",
+                "value": 347852,
+                "color": "#8e1591",
+                "label": "Domestic supply",
+                "children": [
+                    {
+                        "name": "Statistica...",
+                        "value": -17059,
+                        "color": "#382903",
+                        "label": "Statistical differences"
+                    },
+                    {
+                        "name": "Energy ind...",
+                        "value": 23084,
+                        "color": "#a9c353",
+                        "label": "Energy industry own use",
+                        "children": [
+                            {
+                                "name": "Oil refine...",
+                                "value": 13731,
+                                "color": "#cf378f",
+                                "label": "Oil refineries"
+                            },
+                            {
+                                "name": "Own use in...",
+                                "value": 9354,
+                                "color": "#86e8e5",
+                                "label": "Own use in electricity, CHP and heat plants"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Losses...",
+                        "value": 32423,
+                        "color": "#5ec67b",
+                        "label": "Losses"
+                    },
+                    {
+                        "name": "Final cons...",
+                        "value": 275286,
+                        "color": "#febb7d",
+                        "label": "Final consumption",
+                        "children": [
+                            {
+                                "name": "Industry...",
+                                "value": 33499,
+                                "color": "#295002",
+                                "label": "Industry",
+                                "children": [
+                                    {
+                                        "name": "Mining and...",
+                                        "value": 234,
+                                        "color": "#ca9263",
+                                        "label": "Mining and quarrying"
+                                    },
+                                    {
+                                        "name": "Manufactur...",
+                                        "value": 11718,
+                                        "color": "#481687",
+                                        "label": "Manufacturing",
+                                        "children": [
+                                            {
+                                                "name": "Iron and s...",
+                                                "value": 3626,
+                                                "color": "#d3efdd",
+                                                "label": "Iron and steel"
+                                            },
+                                            {
+                                                "name": "Chemical a...",
+                                                "value": 7697,
+                                                "color": "#572e8d",
+                                                "label": "Chemical and petrochemical"
+                                            },
+                                            {
+                                                "name": "Non-metall...",
+                                                "value": 395,
+                                                "color": "#a0a335",
+                                                "label": "Non-metallic minerals/cement"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Industry n...",
+                                        "value": 21548,
+                                        "color": "#298a57",
+                                        "label": "Industry not elsewhere specified"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Residentia...",
+                                "value": 143055,
+                                "color": "#423545",
+                                "label": "Residential"
+                            },
+                            {
+                                "name": "Commercial...",
+                                "value": 98372,
+                                "color": "#dab600",
+                                "label": "Commercial and public services"
+                            },
+                            {
+                                "name": "Final cons...",
+                                "value": 359,
+                                "color": "#92d66d",
+                                "label": "Final consumption not elsewhere specified"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Electricit...",
+                "value": 347852,
+                "color": "#55629d",
+                "label": "Electricity output (GWh)",
+                "children": [
+                    {
+                        "name": "Electricit...",
+                        "value": 206935,
+                        "color": "#5d25fd",
+                        "label": "Electricity output (GWh)-main activity producer electricity plants"
+                    },
+                    {
+                        "name": "Electricit...",
+                        "value": 140917,
+                        "color": "#ef8172",
+                        "label": "Electricity output (GWh)-autoproducer electricity plants"
+                    }
+                ]
+            }
+        ]
+    },
+    "Heat (TJ)": {}
+}
