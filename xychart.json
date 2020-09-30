@@ -1,325 +1,347 @@
 {
     "Production": {
         "values": {
-            "Natural gas (TJ-gross)": 3628996,
-            "Crude oil (kt)": 496421,
-            "Natural gas liquids (kt)": 59984,
-            "Refinery gas (kt)": 4300,
-            "Liquefied petroleum gases (LPG) (kt)": 1341,
-            "Motor gasoline excl. biofuels (kt)": 23864,
-            "Kerosene type jet fuel excl. biofuels (kt)": 4321,
-            "Other kerosene (kt)": 7271,
-            "Gas/diesel oil excl. biofuels (kt)": 52806,
-            "Fuel oil (kt)": 25544,
-            "Naphtha (kt)": 8739,
-            "Bitumen (kt)": 1619,
-            "Other oil products (kt)": 995,
-            "Electricity (GWh)": 347852
+            "Crude oil": 581038.802904366,
+            "Natural gas": 79123.65078740809,
+            "Solar, Wind, Others": 5.588993981083405,
+            "Total": 660168.0426857553
         }
     },
     "Imports": {
         "values": {
-            "Motor gasoline excl. biofuels (kt)": 8458,
-            "Gas/diesel oil excl. biofuels (kt)": 4369,
-            "Fuel oil (kt)": 10491,
-            "Bitumen (kt)": 1729,
-            "Primary solid biofuels (TJ-net)": 5,
-            "Charcoal (kt)": 10
+            "Oil products": 45504.24429158307,
+            "Biofuels and waste": 107.56606477500716,
+            "Total": 45611.81035635807
         }
     },
     "Exports": {
         "values": {
-            "Crude oil (kt)": -347324,
-            "Natural gas liquids (kt)": -859,
-            "Liquefied petroleum gases (LPG) (kt)": -24606,
-            "Motor gasoline excl. biofuels (kt)": -7768,
-            "Kerosene type jet fuel excl. biofuels (kt)": -270,
-            "Other kerosene (kt)": -6979,
-            "Gas/diesel oil excl. biofuels (kt)": -29587,
-            "Fuel oil (kt)": -4666,
-            "Naphtha (kt)": -16820
-        }
-    },
-    "International marine bunkers": {
-        "values": {
-            "Fuel oil (kt)": -3325
+            "Crude oil": -371212.1023215821,
+            "Oil products": -123392.10568930925,
+            "Total": -494604.20801089134
         }
     },
     "International aviation bunkers": {
         "values": {
-            "Kerosene type jet fuel excl. biofuels (kt)": -3070
+            "Oil products": -3440.9898575874663,
+            "Total": -3440.9898575874663
         }
     },
     "Stock changes": {
         "values": {
-            "Crude oil (kt)": -3771,
-            "Liquefied petroleum gases (LPG) (kt)": 13,
-            "Motor gasoline excl. biofuels (kt)": -170,
-            "Other kerosene (kt)": 214,
-            "Gas/diesel oil excl. biofuels (kt)": 183,
-            "Fuel oil (kt)": 19
+            "Crude oil": 5467.841788478074,
+            "Oil products": -1018.7087990828318,
+            "Total": 4449.1329893952425
         }
     },
-    "Domestic supply": {
+    "Total primary energy supply (TPES)": {
         "values": {
-            "Natural gas (TJ-gross)": 3628996,
-            "Crude oil (kt)": 145326,
-            "Natural gas liquids (kt)": 59125,
-            "Refinery gas (kt)": 4300,
-            "Liquefied petroleum gases (LPG) (kt)": -23253,
-            "Motor gasoline excl. biofuels (kt)": 24385,
-            "Kerosene type jet fuel excl. biofuels (kt)": 981,
-            "Other kerosene (kt)": 506,
-            "Gas/diesel oil excl. biofuels (kt)": 27772,
-            "Fuel oil (kt)": 28063,
-            "Naphtha (kt)": -8081,
-            "Bitumen (kt)": 3349,
-            "Other oil products (kt)": 995,
-            "Primary solid biofuels (TJ-net)": 5,
-            "Charcoal (kt)": 10,
-            "Electricity (GWh)": 347852
+            "Crude oil": 215294.54237126204,
+            "Oil products": -82347.56005439647,
+            "Natural gas": 79123.65078740809,
+            "Solar, Wind, Others": 5.588993981083405,
+            "Biofuels and waste": 107.56606477500716,
+            "Total": 212183.7881630298
+        }
+    },
+    "Transfers": {
+        "values": {
+            "Crude oil": -55836.939906372405,
+            "Oil products": 65232.098500047774,
+            "Total": 9395.158593675369
+        }
+    },
+    "Statistical differences": {
+        "values": {
+            "Crude oil": -3.637978807091713e-12,
+            "Oil products": 4629.675231369751,
+            "Natural gas": 3908.7937080757583,
+            "Electricity": -2654.9590251074806,
+            "Total": 5883.509914338025
+        }
+    },
+    "Transformation processes": {
+        "values": {
+            "Crude oil": -156693.0777723503,
+            "Oil products": 104551.44951354887,
+            "Natural gas": -56094.71173844949,
+            "Solar, Wind, Others": -5.588993981083405,
+            "Electricity": 27575.178285640584,
+            "Total": -80666.75070559143
         },
-        "Transfers": {
+        "Main activity electricity plants": {
             "values": {
-                "Natural gas liquids (kt)": -50709,
-                "Ethane (kt)": 12590,
-                "Liquefied petroleum gases (LPG) (kt)": 27469,
-                "Naphtha (kt)": 10649
+                "Crude oil": -11902.679035018522,
+                "Oil products": -17539.78694946021,
+                "Natural gas": -27265.968402776365,
+                "Solar, Wind, Others": -5.588993981083405,
+                "Electricity": 18636.02751504729,
+                "Total": -38077.99586618888
             }
         },
-        "Statistical differences": {
+        "Autoproducer electricity plants": {
             "values": {
-                "Crude oil (kt)": 5927,
-                "Gas/diesel oil excl. biofuels (kt)": 1127,
-                "Electricity (GWh)": -17059
+                "Crude oil": -5988.750700645068,
+                "Oil products": -6400.429922613929,
+                "Natural gas": -28828.74333567313,
+                "Electricity": 12238.177128116939,
+                "Total": -28979.74683081519
             }
         },
-        "Transformation processes": {
+        "Oil refineries": {
             "values": {
-                "Natural gas (TJ-gross)": 2435112,
-                "Crude oil (kt)": 148970,
-                "Natural gas liquids (kt)": 8416,
-                "Gas/diesel oil excl. biofuels (kt)": 10766,
-                "Fuel oil (kt)": 4613
-            },
-            "Main activity producer electricity plants": {
-                "values": {
-                    "Natural gas (TJ-gross)": 971292,
-                    "Crude oil (kt)": 19731,
-                    "Gas/diesel oil excl. biofuels (kt)": 8890,
-                    "Fuel oil (kt)": 3759
-                }
-            },
-            "Autoproducer electricity plants": {
-                "values": {
-                    "Natural gas (TJ-gross)": 1463820,
-                    "Crude oil (kt)": 4238,
-                    "Gas/diesel oil excl. biofuels (kt)": 1876,
-                    "Fuel oil (kt)": 854
-                }
-            },
-            "Autoproducer CHP plants": {
-                "values": {
-                    "Natural gas (TJ-gross)": "                                                                                                                                                        "
-                }
-            },
-            "Oil refineries": {
-                "values": {
-                    "Crude oil (kt)": 125000,
-                    "Natural gas liquids (kt)": 8416
-                }
+                "Crude oil": -138801.64803668673,
+                "Oil products": 136726.82521814428,
+                "Total": -2074.8228185424523
             }
         },
         "Energy industry own use": {
             "values": {
-                "Natural gas (TJ-gross)": 145160,
-                "Crude oil (kt)": 1,
-                "Refinery gas (kt)": 4300,
-                "Liquefied petroleum gases (LPG) (kt)": 378,
-                "Gas/diesel oil excl. biofuels (kt)": 1029,
-                "Fuel oil (kt)": 992,
-                "Other oil products (kt)": 806,
-                "Electricity (GWh)": 23084
-            },
-            "Oil and gas extraction": {
-                "values": {
-                    "Natural gas (TJ-gross)": 145160,
-                    "Liquefied petroleum gases (LPG) (kt)": 378,
-                    "Gas/diesel oil excl. biofuels (kt)": 1029
-                }
-            },
-            "Oil refineries": {
-                "values": {
-                    "Crude oil (kt)": 1,
-                    "Refinery gas (kt)": 4300,
-                    "Fuel oil (kt)": 992,
-                    "Other oil products (kt)": 806,
-                    "Electricity (GWh)": 13731
-                }
-            },
-            "Own use in electricity, CHP and heat plants": {
-                "values": {
-                    "Electricity (GWh)": 9354
-                }
+                "Oil products": -8235.158832521258,
+                "Electricity": -365.9769164230438,
+                "Total": -8601.135748944302
             }
         },
         "Losses": {
             "values": {
-                "Electricity (GWh)": 32423
+                "Electricity": -2933.0494411006016,
+                "Total": -2933.0494411006016
+            }
+        }
+    },
+    "Final consumption": {
+        "values": {
+            "Crude oil": 2764.5246925393258,
+            "Oil products": 92065.66319056995,
+            "Natural gas": 26937.732757034348,
+            "Biofuels and waste": 107.56606477500716,
+            "Electricity": 24920.219260533104,
+            "Total": 146795.70596545172
+        },
+        "Industry": {
+            "values": {
+                "Crude oil": 2764.5246925393258,
+                "Oil products": 4351.735454284895,
+                "Natural gas": 21002.820291706263,
+                "Electricity": 4395.9236457437655,
+                "Total": 32515.00408427425
+            },
+            "Chemical and petrochemical": {
+                "values": {
+                    "Natural gas": 19098.218603061538,
+                    "Total": 19098.218603061538
+                }
+            },
+            "Non-metallic minerals": {
+                "values": {
+                    "Crude oil": 2764.5246925393258,
+                    "Oil products": 3574.6612230462447,
+                    "Natural gas": 1904.601688644726,
+                    "Total": 8243.787604230296
+                }
+            },
+            "Non-specified (Industry)": {
+                "values": {
+                    "Oil products": 777.0742312386503,
+                    "Electricity": 4395.9236457437655,
+                    "Total": 5172.997876982416
+                }
             }
         },
-        "Final consumption": {
+        "Transport": {
             "values": {
-                "Natural gas (TJ-gross)": 1048724,
-                "Crude oil (kt)": 2282,
-                "Ethane (kt)": 12590,
-                "Liquefied petroleum gases (LPG) (kt)": 3838,
-                "Motor gasoline excl. biofuels (kt)": 24385,
-                "Kerosene type jet fuel excl. biofuels (kt)": 981,
-                "Other kerosene (kt)": 506,
-                "Gas/diesel oil excl. biofuels (kt)": 17104,
-                "Fuel oil (kt)": 22458,
-                "Naphtha (kt)": 2568,
-                "Bitumen (kt)": 3349,
-                "Other oil products (kt)": 189,
-                "Primary solid biofuels (TJ-net)": 5,
-                "Charcoal (kt)": 10,
-                "Electricity (GWh)": 275286
+                "Oil products": 43868.30019236095,
+                "Total": 43868.30019236095
             },
-            "Industry": {
+            "Road": {
                 "values": {
-                    "Natural gas (TJ-gross)": 809288,
-                    "Crude oil (kt)": 2282,
-                    "Gas/diesel oil excl. biofuels (kt)": 2935,
-                    "Fuel oil (kt)": 22458,
-                    "Electricity (GWh)": 33499
-                },
-                "Mining and quarrying": {
-                    "values": {
-                        "Electricity (GWh)": 234
-                    }
-                },
-                "Manufacturing": {
-                    "values": {
-                        "Electricity (GWh)": 11718
-                    },
-                    "Iron and steel": {
-                        "values": {
-                            "Electricity (GWh)": 3626
-                        }
-                    },
-                    "Chemical and petrochemical": {
-                        "values": {
-                            "Electricity (GWh)": 7697
-                        }
-                    },
-                    "Non-metallic minerals/cement": {
-                        "values": {
-                            "Electricity (GWh)": 395
-                        }
-                    }
-                },
-                "Industry not elsewhere specified": {
-                    "values": {
-                        "Natural gas (TJ-gross)": 809288,
-                        "Crude oil (kt)": 2282,
-                        "Gas/diesel oil excl. biofuels (kt)": 2935,
-                        "Fuel oil (kt)": 22458,
-                        "Electricity (GWh)": 21548
-                    }
+                    "Oil products": 40456.24785654295,
+                    "Total": 40456.24785654295
                 }
             },
-            "Transport": {
+            "Domestic aviation": {
                 "values": {
-                    "Motor gasoline excl. biofuels (kt)": 24385,
-                    "Kerosene type jet fuel excl. biofuels (kt)": 981,
-                    "Gas/diesel oil excl. biofuels (kt)": 14169
-                },
-                "Domestic aviation": {
-                    "values": {
-                        "Kerosene type jet fuel excl. biofuels (kt)": 981
-                    }
-                },
-                "Road": {
-                    "values": {
-                        "Motor gasoline excl. biofuels (kt)": 24385,
-                        "Gas/diesel oil excl. biofuels (kt)": 14169
-                    }
+                    "Oil products": 1099.5475733854412,
+                    "Total": 1099.5475733854412
                 }
+            },
+            "Rail": {
+                "values": {
+                    "Oil products": 2312.504762432558,
+                    "Total": 2312.504762432558
+                }
+            }
+        },
+        "Other": {
+            "values": {
+                "Oil products": 6505.187613667096,
+                "Biofuels and waste": 107.56606477500716,
+                "Electricity": 20524.29561478934,
+                "Total": 27137.04929323144
             },
             "Residential": {
                 "values": {
-                    "Liquefied petroleum gases (LPG) (kt)": 1109,
-                    "Other kerosene (kt)": 506,
-                    "Primary solid biofuels (TJ-net)": 5,
-                    "Charcoal (kt)": 10,
-                    "Electricity (GWh)": 143055
+                    "Oil products": 1845.3305648593819,
+                    "Biofuels and waste": 107.56606477500716,
+                    "Electricity": 11181.5660361135,
+                    "Total": 13134.46266574789
                 }
             },
             "Commercial and public services": {
                 "values": {
-                    "Electricity (GWh)": 98372
+                    "Electricity": 7794.228718830611,
+                    "Total": 7794.228718830611
                 }
             },
-            "Final consumption not elsewhere specified": {
+            "Agriculture/forestry": {
                 "values": {
-                    "Electricity (GWh)": 359
+                    "Oil products": 4055.7014065404896,
+                    "Electricity": 421.7870163370593,
+                    "Total": 4477.488422877549
                 }
             },
-            "Non-energy use": {
+            "Fishing": {
                 "values": {
-                    "Natural gas (TJ-gross)": 239436,
-                    "Ethane (kt)": 12590,
-                    "Liquefied petroleum gases (LPG) (kt)": 2729,
-                    "Naphtha (kt)": 2568,
-                    "Bitumen (kt)": 3349,
-                    "Other oil products (kt)": 189
-                },
-                "Non-energy use industry/transformation/energy": {
-                    "values": {
-                        "Natural gas (TJ-gross)": 239436,
-                        "Ethane (kt)": 12590,
-                        "Liquefied petroleum gases (LPG) (kt)": 2729,
-                        "Naphtha (kt)": 2568,
-                        "Bitumen (kt)": 3349,
-                        "Other oil products (kt)": 189
-                    }
+                    "Oil products": 604.1556422672243,
+                    "Total": 604.1556422672243
+                }
+            },
+            "Non-specified (other)": {
+                "values": {
+                    "Electricity": 1126.7138435081686,
+                    "Total": 1126.7138435081686
+                }
+            }
+        },
+        "Non-energy use": {
+            "values": {
+                "Oil products": 37340.439930257,
+                "Natural gas": 5934.912465328087,
+                "Total": 43275.35239558509
+            },
+            "Non-energy use industry/transformation/energy": {
+                "values": {
+                    "Oil products": 37340.439930257,
+                    "Natural gas": 5934.912465328087,
+                    "Total": 43275.35239558509
                 }
             }
         }
     },
-    "Memo: Non-energy use in chemical/petrochemical": {
+    "Electricity output in GWh": {
         "values": {
-            "Natural gas (TJ-gross)": 239436,
-            "Ethane (kt)": 12590,
-            "Liquefied petroleum gases (LPG) (kt)": 2729,
-            "Naphtha (kt)": 2568
+            "Crude oil": 57625,
+            "Oil products": 65201,
+            "Natural gas": 236027,
+            "Solar, Wind, Others": 214,
+            "Total": 359067
+        },
+        "Elec output-main activity producer ele plants": {
+            "values": {
+                "Crude oil": 40600,
+                "Oil products": 47106,
+                "Natural gas": 128817,
+                "Solar, Wind, Others": 214,
+                "Total": 216737
+            }
+        },
+        "Elec output-autoproducer electricity plants": {
+            "values": {
+                "Crude oil": 17025,
+                "Oil products": 18095,
+                "Natural gas": 107210,
+                "Total": 142330
+            }
         }
     },
-    "Electricity output (GWh)": {
+    "Main activity electricity plants": {
         "values": {
-            "Natural gas (TJ-gross)": 221836,
-            "Crude oil (kt)": 82463,
-            "Other oil products (kt)": 43397,
-            "Solar photovoltaics": 155,
-            "Electricity (GWh)": 347852
-        },
-        "Electricity output (GWh)-main activity producer electricity plants": {
-            "values": {
-                "Natural gas (TJ-gross)": 101466,
-                "Crude oil (kt)": 69943,
-                "Other oil products (kt)": 35371,
-                "Solar photovoltaics": 155,
-                "Electricity (GWh)": 206935
-            }
-        },
-        "Electricity output (GWh)-autoproducer electricity plants": {
-            "values": {
-                "Natural gas (TJ-gross)": 120370,
-                "Crude oil (kt)": 12521,
-                "Other oil products (kt)": 8026,
-                "Electricity (GWh)": 140917
-            }
+            "Coal": "-",
+            "Peat": "-",
+            "Oil shale and oil sands": "-",
+            "Crude oil": 0.2932929313507317,
+            "Oil products": 0.23092566300967457,
+            "Natural gas": 0.4062305107998015,
+            "Nuclear": "-",
+            "Hydro": "-",
+            "Geothermal": "-",
+            "Solar, Wind, Others": 3.292307692307692,
+            "Biofuels and waste": "-"
+        }
+    },
+    "Autoproducer electricity plants": {
+        "values": {
+            "Coal": "-",
+            "Peat": "-",
+            "Oil shale and oil sands": "-",
+            "Crude oil": 0.24443937869583426,
+            "Oil products": 0.24309147332643713,
+            "Natural gas": 0.3197642221355237,
+            "Nuclear": "-",
+            "Hydro": "-",
+            "Geothermal": "-",
+            "Solar, Wind, Others": "-",
+            "Biofuels and waste": "-"
+        }
+    },
+    "Main activity producer CHP plants": {
+        "values": {
+            "Coal": "-",
+            "Peat": "-",
+            "Oil shale and oil sands": "-",
+            "Crude oil": "-",
+            "Oil products": "-",
+            "Natural gas": "-",
+            "Nuclear": "-",
+            "Hydro": "-",
+            "Geothermal": "-",
+            "Solar, Wind, Others": "-",
+            "Biofuels and waste": "-"
+        }
+    },
+    "Autoproducer CHP plants": {
+        "values": {
+            "Coal": "-",
+            "Peat": "-",
+            "Oil shale and oil sands": "-",
+            "Crude oil": "-",
+            "Oil products": "-",
+            "Natural gas": "-",
+            "Nuclear": "-",
+            "Hydro": "-",
+            "Geothermal": "-",
+            "Solar, Wind, Others": "-",
+            "Biofuels and waste": "-"
+        }
+    },
+    "Main activity producer heat plants": {
+        "values": {
+            "Coal": "-",
+            "Peat": "-",
+            "Oil shale and oil sands": "-",
+            "Crude oil": "-",
+            "Oil products": "-",
+            "Natural gas": "-",
+            "Nuclear": "-",
+            "Hydro": "-",
+            "Geothermal": "-",
+            "Solar, Wind, Others": "-",
+            "Biofuels and waste": "-"
+        }
+    },
+    "Autoproducer heat plants": {
+        "values": {
+            "Coal": "-",
+            "Peat": "-",
+            "Oil shale and oil sands": "-",
+            "Crude oil": "-",
+            "Oil products": "-",
+            "Natural gas": "-",
+            "Nuclear": "-",
+            "Hydro": "-",
+            "Geothermal": "-",
+            "Solar, Wind, Others": "-",
+            "Biofuels and waste": "-"
         }
     }
 }
