@@ -1,0 +1,436 @@
+{
+    "nodes": [
+        {
+            "name": "Production"
+        },
+        {
+            "name": "Crude oil"
+        },
+        {
+            "name": "Natural gas"
+        },
+        {
+            "name": "Solar, Wind, Others"
+        },
+        {
+            "name": "Imports"
+        },
+        {
+            "name": "Oil products"
+        },
+        {
+            "name": "Biofuels and waste"
+        },
+        {
+            "name": "Exports"
+        },
+        {
+            "name": "International aviation bunkers"
+        },
+        {
+            "name": "Stock changes"
+        },
+        {
+            "name": "Transfers"
+        },
+        {
+            "name": "Statistical differences"
+        },
+        {
+            "name": "Electricity"
+        },
+        {
+            "name": "Main activity electricity plants"
+        },
+        {
+            "name": "Autoproducer electricity plants"
+        },
+        {
+            "name": "Oil refineries"
+        },
+        {
+            "name": "Energy industry own use"
+        },
+        {
+            "name": "Losses"
+        },
+        {
+            "name": "Chemical and petrochemical"
+        },
+        {
+            "name": "Non-metallic minerals"
+        },
+        {
+            "name": "Non-specified (Industry)"
+        },
+        {
+            "name": "Road"
+        },
+        {
+            "name": "Domestic aviation"
+        },
+        {
+            "name": "Rail"
+        },
+        {
+            "name": "Residential"
+        },
+        {
+            "name": "Commercial and public services"
+        },
+        {
+            "name": "Agriculture/forestry"
+        },
+        {
+            "name": "Fishing"
+        },
+        {
+            "name": "Non-specified (other)"
+        },
+        {
+            "name": "Non-energy use industry/transformation/energy"
+        }
+    ],
+    "links": [
+        {
+            "source": "Production",
+            "target": "Crude oil",
+            "value": 581038.802904366
+        },
+        {
+            "source": "Production",
+            "target": "Natural gas",
+            "value": 79123.65078740809
+        },
+        {
+            "source": "Production",
+            "target": "Solar, Wind, Others",
+            "value": 5.588993981083405
+        },
+        {
+            "source": "Imports",
+            "target": "Oil products",
+            "value": 45504.24429158307
+        },
+        {
+            "source": "Imports",
+            "target": "Biofuels and waste",
+            "value": 107.56606477500716
+        },
+        {
+            "source": "Crude oil",
+            "target": "Exports",
+            "value": 371212.1023215821
+        },
+        {
+            "source": "Oil products",
+            "target": "Exports",
+            "value": 123392.10568930925
+        },
+        {
+            "source": "Oil products",
+            "target": "International aviation bunkers",
+            "value": 3440.9898575874663
+        },
+        {
+            "source": "Stock changes",
+            "target": "Crude oil",
+            "value": 5467.841788478074
+        },
+        {
+            "source": "Oil products",
+            "target": "Stock changes",
+            "value": 1018.7087990828318
+        },
+        {
+            "source": "Crude oil",
+            "target": "Transfers",
+            "value": 55836.939906372405
+        },
+        {
+            "source": "Transfers",
+            "target": "Oil products",
+            "value": 65232.098500047774
+        },
+        {
+            "source": "Crude oil",
+            "target": "Statistical differences",
+            "value": 3.637978807091713e-12
+        },
+        {
+            "source": "Statistical differences",
+            "target": "Oil products",
+            "value": 4629.675231369751
+        },
+        {
+            "source": "Statistical differences",
+            "target": "Natural gas",
+            "value": 3908.7937080757583
+        },
+        {
+            "source": "Electricity",
+            "target": "Statistical differences",
+            "value": 2654.9590251074806
+        },
+        {
+            "source": "Crude oil",
+            "target": "Main activity electricity plants",
+            "value": 11902.679035018522
+        },
+        {
+            "source": "Oil products",
+            "target": "Main activity electricity plants",
+            "value": 17539.78694946021
+        },
+        {
+            "source": "Natural gas",
+            "target": "Main activity electricity plants",
+            "value": 27265.968402776365
+        },
+        {
+            "source": "Solar, Wind, Others",
+            "target": "Main activity electricity plants",
+            "value": 5.588993981083405
+        },
+        {
+            "source": "Main activity electricity plants",
+            "target": "Electricity",
+            "value": 18636.02751504729
+        },
+        {
+            "source": "Crude oil",
+            "target": "Autoproducer electricity plants",
+            "value": 5988.750700645068
+        },
+        {
+            "source": "Oil products",
+            "target": "Autoproducer electricity plants",
+            "value": 6400.429922613929
+        },
+        {
+            "source": "Natural gas",
+            "target": "Autoproducer electricity plants",
+            "value": 28828.74333567313
+        },
+        {
+            "source": "Autoproducer electricity plants",
+            "target": "Electricity",
+            "value": 12238.177128116939
+        },
+        {
+            "source": "Crude oil",
+            "target": "Oil refineries",
+            "value": 138801.64803668673
+        },
+        {
+            "source": "Oil refineries",
+            "target": "Oil products",
+            "value": 136726.82521814428
+        },
+        {
+            "source": "Oil products",
+            "target": "Energy industry own use",
+            "value": 8235.158832521258
+        },
+        {
+            "source": "Electricity",
+            "target": "Energy industry own use",
+            "value": 365.9769164230438
+        },
+        {
+            "source": "Electricity",
+            "target": "Losses",
+            "value": 2933.0494411006016
+        },
+        {
+            "target": "Chemical and petrochemical",
+            "source": "Natural gas",
+            "value": 19098.218603061538
+        },
+        {
+            "target": "Non-metallic minerals",
+            "source": "Crude oil",
+            "value": 2764.5246925393258
+        },
+        {
+            "target": "Non-metallic minerals",
+            "source": "Oil products",
+            "value": 3574.6612230462447
+        },
+        {
+            "target": "Non-metallic minerals",
+            "source": "Natural gas",
+            "value": 1904.601688644726
+        },
+        {
+            "target": "Non-specified (Industry)",
+            "source": "Oil products",
+            "value": 777.0742312386503
+        },
+        {
+            "target": "Non-specified (Industry)",
+            "source": "Electricity",
+            "value": 4395.9236457437655
+        },
+        {
+            "target": "Road",
+            "source": "Oil products",
+            "value": 40456.24785654295
+        },
+        {
+            "target": "Domestic aviation",
+            "source": "Oil products",
+            "value": 1099.5475733854412
+        },
+        {
+            "target": "Rail",
+            "source": "Oil products",
+            "value": 2312.504762432558
+        },
+        {
+            "target": "Residential",
+            "source": "Oil products",
+            "value": 1845.3305648593819
+        },
+        {
+            "target": "Residential",
+            "source": "Biofuels and waste",
+            "value": 107.56606477500716
+        },
+        {
+            "target": "Residential",
+            "source": "Electricity",
+            "value": 11181.5660361135
+        },
+        {
+            "target": "Commercial and public services",
+            "source": "Electricity",
+            "value": 7794.228718830611
+        },
+        {
+            "target": "Agriculture/forestry",
+            "source": "Oil products",
+            "value": 4055.7014065404896
+        },
+        {
+            "target": "Agriculture/forestry",
+            "source": "Electricity",
+            "value": 421.7870163370593
+        },
+        {
+            "target": "Fishing",
+            "source": "Oil products",
+            "value": 604.1556422672243
+        },
+        {
+            "target": "Non-specified (other)",
+            "source": "Electricity",
+            "value": 1126.7138435081686
+        },
+        {
+            "target": "Non-energy use industry/transformation/energy",
+            "source": "Oil products",
+            "value": 37340.439930257
+        },
+        {
+            "target": "Non-energy use industry/transformation/energy",
+            "source": "Natural gas",
+            "value": 5934.912465328087
+        },
+        {
+            "target": "Chemical and petrochemical",
+            "source": "Natural gas",
+            "value": 19098.218603061538
+        },
+        {
+            "target": "Non-metallic minerals",
+            "source": "Crude oil",
+            "value": 2764.5246925393258
+        },
+        {
+            "target": "Non-metallic minerals",
+            "source": "Oil products",
+            "value": 3574.6612230462447
+        },
+        {
+            "target": "Non-metallic minerals",
+            "source": "Natural gas",
+            "value": 1904.601688644726
+        },
+        {
+            "target": "Non-specified (Industry)",
+            "source": "Oil products",
+            "value": 777.0742312386503
+        },
+        {
+            "target": "Non-specified (Industry)",
+            "source": "Electricity",
+            "value": 4395.9236457437655
+        },
+        {
+            "target": "Road",
+            "source": "Oil products",
+            "value": 40456.24785654295
+        },
+        {
+            "target": "Domestic aviation",
+            "source": "Oil products",
+            "value": 1099.5475733854412
+        },
+        {
+            "target": "Rail",
+            "source": "Oil products",
+            "value": 2312.504762432558
+        },
+        {
+            "target": "Residential",
+            "source": "Oil products",
+            "value": 1845.3305648593819
+        },
+        {
+            "target": "Residential",
+            "source": "Biofuels and waste",
+            "value": 107.56606477500716
+        },
+        {
+            "target": "Residential",
+            "source": "Electricity",
+            "value": 11181.5660361135
+        },
+        {
+            "target": "Commercial and public services",
+            "source": "Electricity",
+            "value": 7794.228718830611
+        },
+        {
+            "target": "Agriculture/forestry",
+            "source": "Oil products",
+            "value": 4055.7014065404896
+        },
+        {
+            "target": "Agriculture/forestry",
+            "source": "Electricity",
+            "value": 421.7870163370593
+        },
+        {
+            "target": "Fishing",
+            "source": "Oil products",
+            "value": 604.1556422672243
+        },
+        {
+            "target": "Non-specified (other)",
+            "source": "Electricity",
+            "value": 1126.7138435081686
+        },
+        {
+            "target": "Non-energy use industry/transformation/energy",
+            "source": "Oil products",
+            "value": 37340.439930257
+        },
+        {
+            "target": "Non-energy use industry/transformation/energy",
+            "source": "Natural gas",
+            "value": 5934.912465328087
+        }
+    ]
+}
