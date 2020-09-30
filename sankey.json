@@ -95,12 +95,14 @@
         {
             "source": "Production",
             "target": "Crude oil",
-            "value": 581038.802904366
+            "value": 581038.802904366,
+            "colorCode" : "#E6E6FA"
         },
         {
             "source": "Production",
             "target": "Natural gas",
-            "value": 79123.65078740809
+            "value": 79123.65078740809,
+
         },
         {
             "source": "Production",
@@ -110,7 +112,9 @@
         {
             "source": "Imports",
             "target": "Oil products",
-            "value": 45504.24429158307
+            "value": 45504.24429158307,
+                        "colorCode" : "#FFFAF0"
+
         },
         {
             "source": "Imports",
