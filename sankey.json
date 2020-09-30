@@ -95,7 +95,8 @@
         {
             "source": "Production",
             "target": "Crude oil",
-            "value": 581038.802904366
+            "value": 581038.802904366,
+            "nodeColor" : "#708090"
         },
         {
             "source": "Production",
