@@ -92,7 +92,8 @@
         }
     ],
     "links": [
-        
+          { "source": "Exports", "nodeColor": "#CDCDCD" },
+
         {
             "source": "Production",
             "target": "Crude oil",
