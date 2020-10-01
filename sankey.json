@@ -92,14 +92,6 @@
         }
     ],
     "links": [
-        {
-            "source": "Production",
-            "nodeColor" : "#708090"
-        },
-        {
-            "source": "Crude oil",
-            "nodeColor" : "#e1e9b7"
-        },
 
         {
             "source": "Production",
@@ -127,7 +119,9 @@
         {
             "source": "Imports",
             "target": "Biofuels and waste",
-            "value": 107.56606477500716
+            "value": 107.56606477500716,
+                        "nodeColor" : "#e1e9b7"
+
         },
         {
             "source": "Crude oil",
