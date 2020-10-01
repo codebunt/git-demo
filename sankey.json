@@ -125,8 +125,8 @@
         {
             "source": "Crude oil",
             "target": "Exports",
-            "value": 371212.1023215821
-
+            "value": 371212.1023215821,
+            "nodeColor" : "#708090"
         },
         {
             "source": "Oil products",
