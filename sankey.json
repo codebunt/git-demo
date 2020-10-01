@@ -113,14 +113,13 @@
         {
             "source": "Imports",
             "target": "Oil products",
-            "value": 45504.24429158307
-
+            "value": 45504.24429158307,
+            "nodeColor" : "#e1e9b7"
         },
         {
             "source": "Imports",
             "target": "Biofuels and waste",
-            "value": 107.56606477500716,
-                        "nodeColor" : "#e1e9b7"
+            "value": 107.56606477500716
 
         },
         {
@@ -158,26 +157,6 @@
             "source": "Transfers",
             "target": "Oil products",
             "value": 65232.098500047774
-        },
-        {
-            "source": "Crude oil",
-            "target": "Statistical differences",
-            "value": 3.637978807091713e-12
-        },
-        {
-            "source": "Statistical differences",
-            "target": "Oil products",
-            "value": 4629.675231369751
-        },
-        {
-            "source": "Statistical differences",
-            "target": "Natural gas",
-            "value": 3908.7937080757583
-        },
-        {
-            "source": "Electricity",
-            "target": "Statistical differences",
-            "value": 2654.9590251074806
         },
         {
             "source": "Crude oil",
