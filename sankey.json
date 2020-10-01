@@ -139,16 +139,6 @@
             "value": 3440.9898575874663
         },
         {
-            "source": "Stock changes",
-            "target": "Crude oil",
-            "value": 5467.841788478074
-        },
-        {
-            "source": "Oil products",
-            "target": "Stock changes",
-            "value": 1018.7087990828318
-        },
-        {
             "source": "Crude oil",
             "target": "Transfers",
             "value": 55836.939906372405
