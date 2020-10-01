@@ -417,11 +417,6 @@
             "target": "Non-energy use industry/transformation/energy",
             "source": "Natural gas",
             "value": 5934.912465328087
-        },
-        {
-            "source": "Exports",
-            "value": 0,
-            "nodeColor" : "#E0FFFF"
         }
     ]
 }
