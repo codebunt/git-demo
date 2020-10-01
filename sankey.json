@@ -92,13 +92,11 @@
         }
     ],
     "links": [
-          { "source": "Exports", "nodeColor": "#CDCDCD" },
 
         {
             "source": "Production",
             "target": "Crude oil",
-            "value": 581038.802904366,
-            "nodeColor" : "#708090"
+            "value": 581038.802904366
         },
         {
             "source": "Production",
@@ -114,8 +112,7 @@
         {
             "source": "Imports",
             "target": "Oil products",
-            "value": 45504.24429158307,
-            "nodeColor" : "#e1e9b7"
+            "value": 45504.24429158307
         },
         {
             "source": "Imports",
@@ -126,8 +123,7 @@
         {
             "source": "Crude oil",
             "target": "Exports",
-            "value": 371212.1023215821,
-            "nodeColor" : "#708090"
+            "value": 371212.1023215821
         },
         {
             "source": "Oil products",
