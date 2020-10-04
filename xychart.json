@@ -256,92 +256,17 @@
     },
     "Main activity electricity plants": {
         "values": {
-            "Coal": "-",
-            "Peat": "-",
-            "Oil shale and oil sands": "-",
             "Crude oil": 0.2932929313507317,
             "Oil products": 0.23092566300967457,
             "Natural gas": 0.4062305107998015,
-            "Nuclear": "-",
-            "Hydro": "-",
-            "Geothermal": "-",
-            "Solar, Wind, Others": 3.292307692307692,
-            "Biofuels and waste": "-"
+            "Solar, Wind, Others": 3.292307692307692
         }
     },
     "Autoproducer electricity plants": {
         "values": {
-            "Coal": "-",
-            "Peat": "-",
-            "Oil shale and oil sands": "-",
             "Crude oil": 0.24443937869583426,
             "Oil products": 0.24309147332643713,
-            "Natural gas": 0.3197642221355237,
-            "Nuclear": "-",
-            "Hydro": "-",
-            "Geothermal": "-",
-            "Solar, Wind, Others": "-",
-            "Biofuels and waste": "-"
-        }
-    },
-    "Main activity producer CHP plants": {
-        "values": {
-            "Coal": "-",
-            "Peat": "-",
-            "Oil shale and oil sands": "-",
-            "Crude oil": "-",
-            "Oil products": "-",
-            "Natural gas": "-",
-            "Nuclear": "-",
-            "Hydro": "-",
-            "Geothermal": "-",
-            "Solar, Wind, Others": "-",
-            "Biofuels and waste": "-"
-        }
-    },
-    "Autoproducer CHP plants": {
-        "values": {
-            "Coal": "-",
-            "Peat": "-",
-            "Oil shale and oil sands": "-",
-            "Crude oil": "-",
-            "Oil products": "-",
-            "Natural gas": "-",
-            "Nuclear": "-",
-            "Hydro": "-",
-            "Geothermal": "-",
-            "Solar, Wind, Others": "-",
-            "Biofuels and waste": "-"
-        }
-    },
-    "Main activity producer heat plants": {
-        "values": {
-            "Coal": "-",
-            "Peat": "-",
-            "Oil shale and oil sands": "-",
-            "Crude oil": "-",
-            "Oil products": "-",
-            "Natural gas": "-",
-            "Nuclear": "-",
-            "Hydro": "-",
-            "Geothermal": "-",
-            "Solar, Wind, Others": "-",
-            "Biofuels and waste": "-"
-        }
-    },
-    "Autoproducer heat plants": {
-        "values": {
-            "Coal": "-",
-            "Peat": "-",
-            "Oil shale and oil sands": "-",
-            "Crude oil": "-",
-            "Oil products": "-",
-            "Natural gas": "-",
-            "Nuclear": "-",
-            "Hydro": "-",
-            "Geothermal": "-",
-            "Solar, Wind, Others": "-",
-            "Biofuels and waste": "-"
+            "Natural gas": 0.3197642221355237
         }
     }
 }
