@@ -336,14 +336,8 @@
                                 "label": "Commercial and public services"
                             },
                             {
-                                "name": "Agricultur...",
-                                "value": 421.7870163370593,
-                                "color": "#e3e9a9",
-                                "label": "Agriculture/forestry"
-                            },
-                            {
                                 "name": "Non-specif...",
-                                "value": 1126.7138435081686,
+                                "value": 1547,
                                 "color": "#e3d7c9",
                                 "label": "Non-specified (other)"
                             }
