@@ -104,10 +104,10 @@
                                 "label": "Domestic aviation"
                             },
                             {
-                                "name": "Rail...",
+                                "name": "Miscellaneous",
                                 "value": 2312.504762432558,
                                 "color": "#fd470e",
-                                "label": "Rail"
+                                "label": "Miscellaneous"
                             }
                         ]
                     },
@@ -115,27 +115,7 @@
                         "name": "Other...",
                         "value": 6505.187613667096,
                         "color": "#130a68",
-                        "label": "Other",
-                        "children": [
-                            {
-                                "name": "Residentia...",
-                                "value": 1845.3305648593819,
-                                "color": "#9757d0",
-                                "label": "Residential"
-                            },
-                            {
-                                "name": "Agricultur...",
-                                "value": 4055.7014065404896,
-                                "color": "#9d739",
-                                "label": "Agriculture/forestry"
-                            },
-                            {
-                                "name": "Fishing...",
-                                "value": 604.1556422672243,
-                                "color": "#d5b527",
-                                "label": "Fishing"
-                            }
-                        ]
+                        "label": "Other"
                     },
                     {
                         "name": "Non-energy...",
@@ -426,10 +406,10 @@
                                 "label": "Domestic aviation"
                             },
                             {
-                                "name": "Rail...",
+                                "name": "Miscellaneous",
                                 "value": 2312.504762432558,
                                 "color": "#ff82c9",
-                                "label": "Rail"
+                                "label": "Miscellaneous"
                             }
                         ]
                     },
@@ -452,20 +432,8 @@
                                 "label": "Commercial and public services"
                             },
                             {
-                                "name": "Agricultur...",
-                                "value": 4477.488422877549,
-                                "color": "#6f35c0",
-                                "label": "Agriculture/forestry"
-                            },
-                            {
-                                "name": "Fishing...",
-                                "value": 604.1556422672243,
-                                "color": "#13c79d",
-                                "label": "Fishing"
-                            },
-                            {
                                 "name": "Non-specif...",
-                                "value": 1126.7138435081686,
+                                "value": 6207,
                                 "color": "#24993e",
                                 "label": "Non-specified (other)"
                             }
