@@ -70,19 +70,10 @@
             "name": "Domestic aviation"
         },
         {
-            "name": "Rail"
-        },
-        {
             "name": "Residential"
         },
         {
             "name": "Commercial and public services"
-        },
-        {
-            "name": "Agriculture/forestry"
-        },
-        {
-            "name": "Fishing"
         },
         {
             "name": "Non-specified (other)"
@@ -256,11 +247,6 @@
             "value": 1099.5475733854412
         },
         {
-            "target": "Rail",
-            "source": "Oil products",
-            "value": 2312.504762432558
-        },
-        {
             "target": "Residential",
             "source": "Oil products",
             "value": 1845.3305648593819
@@ -279,21 +265,6 @@
             "target": "Commercial and public services",
             "source": "Electricity",
             "value": 7794.228718830611
-        },
-        {
-            "target": "Agriculture/forestry",
-            "source": "Oil products",
-            "value": 4055.7014065404896
-        },
-        {
-            "target": "Agriculture/forestry",
-            "source": "Electricity",
-            "value": 421.7870163370593
-        },
-        {
-            "target": "Fishing",
-            "source": "Oil products",
-            "value": 604.1556422672243
         },
         {
             "target": "Non-specified (other)",
@@ -351,11 +322,6 @@
             "value": 1099.5475733854412
         },
         {
-            "target": "Rail",
-            "source": "Oil products",
-            "value": 2312.504762432558
-        },
-        {
             "target": "Residential",
             "source": "Oil products",
             "value": 1845.3305648593819
@@ -374,21 +340,6 @@
             "target": "Commercial and public services",
             "source": "Electricity",
             "value": 7794.228718830611
-        },
-        {
-            "target": "Agriculture/forestry",
-            "source": "Oil products",
-            "value": 4055.7014065404896
-        },
-        {
-            "target": "Agriculture/forestry",
-            "source": "Electricity",
-            "value": 421.7870163370593
-        },
-        {
-            "target": "Fishing",
-            "source": "Oil products",
-            "value": 604.1556422672243
         },
         {
             "target": "Non-specified (other)",
