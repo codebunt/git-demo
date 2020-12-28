@@ -74,6 +74,14 @@ No description
 
 No description
 
+## Parameters:
+
+- `_receiver`: The receiver account
+
+## Return Values:
+
+- Escrow Address
+
 # Function `addCarbon(uint256 carbon)` {#CarboTag-addCarbon-uint256-}
 
 No description
