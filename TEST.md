@@ -46,33 +46,47 @@ Contract which executes trade between 2 entities via escrow.
 
 - [`EscrowFunded(address sender, uint256 value)`](#CarboTag-EscrowFunded-address-uint256-)
 
-# Function `getEscrowList(address _address) → address[]` {#CarboTag-getEscrowList-address-}
+# getEscrowList
 
-No description
+##No description
 
-# Function `constructor(address factory, address payable oldAddr)` {#CarboTag-constructor-address-address-payable-}
+### `getEscrowList(address _address) → address[]` {#CarboTag-getEscrowList-address-}
 
-No description
+# constructor
 
-# Function `fallback()` {#CarboTag-fallback--}
+##No description
 
-No description
+### `constructor(address factory, address payable oldAddr)` {#CarboTag-constructor-address-address-payable-}
 
-# Function `addGovernor(address _target)` {#CarboTag-addGovernor-address-}
+# fallback
 
-No description
+##No description
 
-# Function `signUp(string name)` {#CarboTag-signUp-string-}
+### `fallback()` {#CarboTag-fallback--}
 
-No description
+# addGovernor
 
-# Function `findEscrowAddr(address _sender, address _receiver) → address payable _escrow` {#CarboTag-findEscrowAddr-address-address-}
+##No description
 
-No description
+### `addGovernor(address _target)` {#CarboTag-addGovernor-address-}
 
-# Function `createEscrow(address _receiver) → address payable _escrowAddr` {#CarboTag-createEscrow-address-}
+# signUp
 
-create a escrow account with you and the receiver
+##No description
+
+### `signUp(string name)` {#CarboTag-signUp-string-}
+
+# findEscrowAddr
+
+##No description
+
+### `findEscrowAddr(address _sender, address _receiver) → address payable _escrow` {#CarboTag-findEscrowAddr-address-address-}
+
+# createEscrow
+
+##create a escrow account with you and the receiver
+
+### `createEscrow(address _receiver) → address payable _escrowAddr` {#CarboTag-createEscrow-address-}
 
 ## Parameters:
 
@@ -82,45 +96,65 @@ create a escrow account with you and the receiver
 
 - Escrow Address
 
-# Function `addCarbon(uint256 carbon)` {#CarboTag-addCarbon-uint256-}
+# addCarbon
 
-No description
+##No description
 
-# Function `createTransaction(address _receiver, int256 _carbon, int256 _gold)` {#CarboTag-createTransaction-address-int256-int256-}
+### `addCarbon(uint256 carbon)` {#CarboTag-addCarbon-uint256-}
 
-No description
+# createTransaction
 
-# Function `acceptTransaction(address _sender, address _receiver, uint256 _txID, int256 _carbon, int256 _gold)` {#CarboTag-acceptTransaction-address-address-uint256-int256-int256-}
+##No description
 
-No description
+### `createTransaction(address _receiver, int256 _carbon, int256 _gold)` {#CarboTag-createTransaction-address-int256-int256-}
 
-# Function `rejectTransaction(address _counterparty, uint256 _txID)` {#CarboTag-rejectTransaction-address-uint256-}
+# acceptTransaction
 
-No description
+##No description
 
-# Function `addStamper(address target, uint256 stamprate, uint256 minpmt)` {#CarboTag-addStamper-address-uint256-uint256-}
+### `acceptTransaction(address _sender, address _receiver, uint256 _txID, int256 _carbon, int256 _gold)` {#CarboTag-acceptTransaction-address-address-uint256-int256-int256-}
 
-No description
+# rejectTransaction
 
-# Function `updateGold(uint256 stamps, address stamper)` {#CarboTag-updateGold-uint256-address-}
+##No description
 
-No description
+### `rejectTransaction(address _counterparty, uint256 _txID)` {#CarboTag-rejectTransaction-address-uint256-}
 
-# Function `transactionData(address _escrowAddr, uint256 _txID) → uint256` {#CarboTag-transactionData-address-uint256-}
+# addStamper
 
-No description
+##No description
 
-# Function `getTransactionIds(address _escrowAddr, uint256 from, uint256 to) → uint256[] _transactionIds` {#CarboTag-getTransactionIds-address-uint256-uint256-}
+### `addStamper(address target, uint256 stamprate, uint256 minpmt)` {#CarboTag-addStamper-address-uint256-uint256-}
 
-No description
+# updateGold
 
-# Function `changeOwner(address _newOwner)` {#CarboTag-changeOwner-address-}
+##No description
 
-No description
+### `updateGold(uint256 stamps, address stamper)` {#CarboTag-updateGold-uint256-address-}
 
-# Function `killContract()` {#CarboTag-killContract--}
+# transactionData
 
-No description
+##No description
+
+### `transactionData(address _escrowAddr, uint256 _txID) → uint256` {#CarboTag-transactionData-address-uint256-}
+
+# getTransactionIds
+
+##No description
+
+### `getTransactionIds(address _escrowAddr, uint256 from, uint256 to) → uint256[] _transactionIds` {#CarboTag-getTransactionIds-address-uint256-uint256-}
+
+# changeOwner
+
+##No description
+
+### `changeOwner(address _newOwner)` {#CarboTag-changeOwner-address-}
+
+# killContract
+
+##No description
+
+### `killContract()` {#CarboTag-killContract--}
 
 # Event `EscrowFunded(address sender, uint256 value)` {#CarboTag-EscrowFunded-address-uint256-}
 
