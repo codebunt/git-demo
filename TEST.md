@@ -72,7 +72,7 @@ No description
 
 # Function `createEscrow(address _receiver) → address payable _escrowAddr` {#CarboTag-createEscrow-address-}
 
-No description
+create a escrow account with you and the receiver
 
 ## Parameters:
 
