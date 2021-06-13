@@ -1,6 +1,7 @@
 [
   {
     "countryname": "Indonesia",
+    "iso": "ID",
     "countrycode": "IDN",
     "incomenum": "Low Income",
     "regionnum": "Asia",
@@ -15,6 +16,7 @@
   },
   {
     "countryname": "France",
+    "iso": "FR",
     "countrycode": "FRA",
     "incomenum": "High Income",
     "regionnum": "Europe",
@@ -29,6 +31,7 @@
   },
   {
     "countryname": "Italy",
+    "iso": "IT",
     "countrycode": "ITA",
     "incomenum": "High Income",
     "regionnum": "Europe",
@@ -43,6 +46,7 @@
   },
   {
     "countryname": "Germany",
+    "iso": "DE",
     "countrycode": "DEU",
     "incomenum": "High Income",
     "regionnum": "Europe",
@@ -57,6 +61,7 @@
   },
   {
     "countryname": "South Africa",
+    "iso": "ZA",
     "countrycode": "ZAF",
     "incomenum": "Low Income",
     "regionnum": "Middle East and Africa",
@@ -71,6 +76,7 @@
   },
   {
     "countryname": "Republic of Korea",
+    "iso": "KR",
     "countrycode": "KOR",
     "incomenum": "High Income",
     "regionnum": "Asia",
@@ -85,6 +91,7 @@
   },
   {
     "countryname": "Turkey",
+    "iso": "TR",
     "countrycode": "TUR",
     "incomenum": "Low Income",
     "regionnum": "Europe",
@@ -99,6 +106,7 @@
   },
   {
     "countryname": "Argentina",
+    "iso": "AR",
     "countrycode": "ARG",
     "incomenum": "Low Income",
     "regionnum": "America",
@@ -113,6 +121,7 @@
   },
   {
     "countryname": "Japan",
+    "iso": "JP",
     "countrycode": "JPN",
     "incomenum": "High Income",
     "regionnum": "Asia",
@@ -127,6 +136,7 @@
   },
   {
     "countryname": "India",
+    "iso": "IN",
     "countrycode": "IND",
     "incomenum": "Low Income",
     "regionnum": "Asia",
@@ -141,6 +151,7 @@
   },
   {
     "countryname": "Australia",
+    "iso": "AU",
     "countrycode": "AUS",
     "incomenum": "High Income",
     "regionnum": "Asia",
@@ -155,6 +166,7 @@
   },
   {
     "countryname": "United Kingdom",
+    "iso": "GB",
     "countrycode": "GBR",
     "incomenum": "High Income",
     "regionnum": "Europe",
@@ -169,6 +181,7 @@
   },
   {
     "countryname": "China",
+    "iso": "CN",
     "countrycode": "CHN",
     "incomenum": "Low Income",
     "regionnum": "Asia",
@@ -183,6 +196,7 @@
   },
   {
     "countryname": "Brazil",
+    "iso": "BR",
     "countrycode": "BRA",
     "incomenum": "Low Income",
     "regionnum": "America",
@@ -197,6 +211,7 @@
   },
   {
     "countryname": "Mexico",
+    "iso": "MX",
     "countrycode": "MEX",
     "incomenum": "Low Income",
     "regionnum": "America",
@@ -211,6 +226,7 @@
   },
   {
     "countryname": "Canada",
+    "iso": "CA",
     "countrycode": "CAN",
     "incomenum": "High Income",
     "regionnum": "America",
@@ -225,6 +241,7 @@
   },
   {
     "countryname": "Saudi Arabia",
+    "iso": "SA",
     "countrycode": "SAU",
     "incomenum": "High Income",
     "regionnum": "Middle East and Africa",
@@ -239,6 +256,7 @@
   },
   {
     "countryname": "Russian Federation",
+    "iso": "RU",
     "countrycode": "RUS",
     "incomenum": "Low Income",
     "regionnum": "Europe",
@@ -253,6 +271,7 @@
   },
   {
     "countryname": "United States",
+    "iso": "US",
     "countrycode": "USA",
     "incomenum": "High Income",
     "regionnum": "America",
@@ -267,6 +286,7 @@
   },
   {
     "countryname": "Libya",
+    "iso": "LY",
     "countrycode": "LBY",
     "incomenum": "Low Income",
     "regionnum": "Middle East and Africa",
@@ -281,6 +301,7 @@
   },
   {
     "countryname": "Kuwait",
+    "iso": "KW",
     "countrycode": "KWT",
     "incomenum": "High Income",
     "regionnum": "Middle East and Africa",
@@ -295,6 +316,7 @@
   },
   {
     "countryname": "United Arab Emirates",
+    "iso": "AR",
     "countrycode": "ARE",
     "incomenum": "High Income",
     "regionnum": "Middle East and Africa",
@@ -309,6 +331,7 @@
   },
   {
     "countryname": "Iraq",
+    "iso": "IR",
     "countrycode": "IRQ",
     "incomenum": "Low Income",
     "regionnum": "Middle East and Africa",
@@ -323,6 +346,7 @@
   },
   {
     "countryname": "Angola",
+    "iso": "AO",
     "countrycode": "AGO",
     "incomenum": "Low Income",
     "regionnum": "Middle East and Africa",
@@ -337,6 +361,7 @@
   },
   {
     "countryname": "Norway",
+    "iso": "NO",
     "countrycode": "NOR",
     "incomenum": "High Income",
     "regionnum": "Europe",
@@ -351,6 +376,7 @@
   },
   {
     "countryname": "Oman",
+    "iso": "OM",
     "countrycode": "OMN",
     "incomenum": "High Income",
     "regionnum": "Middle East and Africa",
@@ -365,6 +391,7 @@
   },
   {
     "countryname": "Algeria",
+    "iso": "DZ",
     "countrycode": "DZA",
     "incomenum": "Low Income",
     "regionnum": "Middle East and Africa",
@@ -379,6 +406,7 @@
   },
   {
     "countryname": "Iran",
+    "iso": "IR",
     "countrycode": "IRN",
     "incomenum": "Low Income",
     "regionnum": "Middle East and Africa",
@@ -393,6 +421,7 @@
   },
   {
     "countryname": "Qatar",
+    "iso": "QA",
     "countrycode": "QAT",
     "incomenum": "High Income",
     "regionnum": "Middle East and Africa",
@@ -407,6 +436,7 @@
   },
   {
     "countryname": "Nigeria",
+    "iso": "NG",
     "countrycode": "NGA",
     "incomenum": "Low Income",
     "regionnum": "Middle East and Africa",
@@ -421,6 +451,7 @@
   },
   {
     "countryname": "Kazakhstan",
+    "iso": "KZ",
     "countrycode": "KAZ",
     "incomenum": "Low Income",
     "regionnum": "Europe",
@@ -435,6 +466,7 @@
   },
   {
     "countryname": "Azerbaijan",
+    "iso": "AZ",
     "countrycode": "AZE",
     "incomenum": "Low Income",
     "regionnum": "Europe",
@@ -449,6 +481,7 @@
   },
   {
     "countryname": "Malaysia",
+    "iso": "MY",
     "countrycode": "MYS",
     "incomenum": "Low Income",
     "regionnum": "Asia",
@@ -463,6 +496,7 @@
   },
   {
     "countryname": "Venezuela",
+    "iso": "VE",
     "countrycode": "VEN",
     "incomenum": "Low Income",
     "regionnum": "America",
@@ -477,6 +511,7 @@
   },
   {
     "countryname": "Colombia",
+    "iso": "CO",
     "countrycode": "COL",
     "incomenum": "Low Income",
     "regionnum": "America",
@@ -491,6 +526,7 @@
   },
   {
     "countryname": "Egypt",
+    "iso": "EG",
     "countrycode": "EGY",
     "incomenum": "Low Income",
     "regionnum": "Middle East and Africa",
