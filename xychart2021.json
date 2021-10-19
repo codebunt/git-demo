@@ -1,0 +1,282 @@
+{
+    "Production": {
+        "values": {
+            "Crude oil": 554058.6318907042,
+            "Natural gas": 80213.65591343155,
+            "Solar, Wind, Others": 97.29279032804396,
+            "Total": 634369.5805944637
+        }
+    },
+    "Imports": {
+        "values": {
+            "Oil products": 16548.92055985478,
+            "Biofuels and waste": 120.71486576860609,
+            "Electricity": 0.17196904557179707,
+            "Total": 16669.80739466896
+        }
+    },
+    "Exports": {
+        "values": {
+            "Crude oil": -354417.5838349097,
+            "Oil products": -84281.1314130123,
+            "Electricity": -3.095442820292347,
+            "Total": -438701.8106907423
+        }
+    },
+    "International aviation bunkers": {
+        "values": {
+            "Oil products": -3752.0348444030124,
+            "Total": -3752.0348444030124
+        }
+    },
+    "Stock changes": {
+        "values": {
+            "Crude oil": 6922.699914015478,
+            "Oil products": 918.9380911435942,
+            "Total": 7841.638005159071
+        }
+    },
+    "Total primary energy supply (TPES)": {
+        "values": {
+            "Crude oil": 206563.74796980992,
+            "Oil products": -70565.30760641694,
+            "Natural gas": 80213.65591343155,
+            "Solar, Wind, Others": 97.29279032804396,
+            "Biofuels and waste": 120.71486576860609,
+            "Electricity": -2.92347377472055,
+            "Total": 216427.18045914645
+        }
+    },
+    "Transfers": {
+        "values": {
+            "Crude oil": -56390.513040985956,
+            "Oil products": 62598.261201872556,
+            "Total": 6207.7481608866
+        }
+    },
+    "Statistical differences": {
+        "values": {
+            "Crude oil": -1.6143530956469476e-11,
+            "Oil products": 375.1993361431523,
+            "Natural gas": 1219.1936698137542,
+            "Biofuels and waste": -4.17846565396006,
+            "Electricity": -4787.3604357475415,
+            "Total": -3197.145895444611
+        }
+    },
+    "Transformation processes": {
+        "values": {
+            "Crude oil": -148609.52491039742,
+            "Oil products": 102773.33726644346,
+            "Natural gas": -56649.121828162824,
+            "Solar, Wind, Others": -97.29279032804396,
+            "Electricity": 28838.223129836624,
+            "Total": -73744.37913260823
+        },
+        "Main activity electricity plants": {
+            "values": {
+                "Crude oil": -12729.60199955665,
+                "Oil products": -15574.206892584934,
+                "Natural gas": -26459.581167204426,
+                "Solar, Wind, Others": -97.29279032804396,
+                "Electricity": 18831.956537500042,
+                "Total": -36028.72631217401
+            }
+        },
+        "Autoproducer electricity plants": {
+            "values": {
+                "Crude oil": -7116.339744699579,
+                "Oil products": -6123.345916074462,
+                "Natural gas": -30189.5406609584,
+                "Electricity": 13367.613539886022,
+                "Total": -30061.612781846416
+            }
+        },
+        "Oil refineries": {
+            "values": {
+                "Crude oil": -128763.58316614121,
+                "Oil products": 131121.37851496146,
+                "Total": 2357.7953488202475
+            }
+        },
+        "Energy industry own use": {
+            "values": {
+                "Oil products": -6650.488439858604,
+                "Electricity": -302.6655202063628,
+                "Total": -6953.153960064967
+            }
+        },
+        "Losses": {
+            "values": {
+                "Electricity": -3058.6814273430778,
+                "Total": -3058.6814273430778
+            }
+        }
+    },
+    "Final consumption": {
+        "values": {
+            "Crude oil": 1563.7100184264984,
+            "Oil products": 95181.49019804221,
+            "Natural gas": 24783.72775508248,
+            "Biofuels and waste": 116.53640011464603,
+            "Electricity": 24047.939220314358,
+            "Total": 145693.4035919802
+        },
+        "Industry": {
+            "values": {
+                "Crude oil": 1563.7100184264984,
+                "Oil products": 6379.465723771368,
+                "Natural gas": 14876.590005727478,
+                "Electricity": 4250.701838757352,
+                "Total": 27070.467586682695
+            },
+            "Chemical and petrochemical": {
+                "values": {
+                    "Natural gas": 12863.426020829998,
+                    "Total": 12863.426020829998
+                }
+            },
+            "Non-metallic minerals": {
+                "values": {
+                    "Crude oil": 1563.7100184264984,
+                    "Oil products": 2496.417311550588,
+                    "Natural gas": 2013.1639848974792,
+                    "Total": 6073.291314874566
+                }
+            },
+            "Non-specified (Industry)": {
+                "values": {
+                    "Oil products": 3883.0484122207804,
+                    "Electricity": 4250.701838757352,
+                    "Total": 8133.750250978132
+                }
+            }
+        },
+        "Transport": {
+            "values": {
+                "Oil products": 44185.70047865854,
+                "Total": 44185.70047865854
+            },
+            "Road": {
+                "values": {
+                    "Oil products": 37845.85359782713,
+                    "Total": 37845.85359782713
+                }
+            },
+            "Domestic aviation": {
+                "values": {
+                    "Oil products": 1198.940124547021,
+                    "Total": 1198.940124547021
+                }
+            },
+            "Rail": {
+                "values": {
+                    "Oil products": 4698.145426165633,
+                    "Total": 4698.145426165633
+                }
+            },
+            "Domestic navigation": {
+                "values": {
+                    "Oil products": 442.7613301187485,
+                    "Total": 442.7613301187485
+                }
+            }
+        },
+        "Other": {
+            "values": {
+                "Oil products": 5932.082904564252,
+                "Biofuels and waste": 116.53640011464603,
+                "Electricity": 19797.237381557006,
+                "Total": 25845.856686235904
+            },
+            "Residential": {
+                "values": {
+                    "Oil products": 1226.108006114455,
+                    "Biofuels and waste": 116.53640011464603,
+                    "Electricity": 11018.118975285124,
+                    "Total": 12360.763381514225
+                }
+            },
+            "Commercial and public services": {
+                "values": {
+                    "Electricity": 7272.048086661307,
+                    "Total": 7272.048086661307
+                }
+            },
+            "Agriculture/forestry": {
+                "values": {
+                    "Oil products": 4132.274783849472,
+                    "Electricity": 428.6158048517627,
+                    "Total": 4560.890588701235
+                }
+            },
+            "Fishing": {
+                "values": {
+                    "Oil products": 573.7001146003246,
+                    "Total": 573.7001146003246
+                }
+            },
+            "Non-specified (other)": {
+                "values": {
+                    "Electricity": 1078.4545147588135,
+                    "Total": 1078.4545147588135
+                }
+            }
+        },
+        "Non-energy use": {
+            "values": {
+                "Oil products": 38684.24109104806,
+                "Natural gas": 9907.137749355003,
+                "Total": 48591.378840403064
+            },
+            "Non-energy use industry/transformation/energy": {
+                "values": {
+                    "Oil products": 38684.24109104806,
+                    "Natural gas": 9907.137749355003,
+                    "Total": 48591.378840403064
+                }
+            }
+        }
+    },
+    "Electricity output in GWh": {
+        "values": {
+            "Crude oil": 66052.65767802706,
+            "Oil products": 61369.58353120365,
+            "Natural gas": 246229.75879076927,
+            "Solar, Wind, Others": 829,
+            "Total": 374481
+        },
+        "Elec output-main activity producer ele plants": {
+            "values": {
+                "Crude oil": 45058.40017099242,
+                "Oil products": 43405.149612593916,
+                "Natural gas": 129723.10474753918,
+                "Solar, Wind, Others": 829,
+                "Total": 219015.6545311255
+            }
+        },
+        "Elec output-autoproducer electricity plants": {
+            "values": {
+                "Crude oil": 20994.257507034632,
+                "Oil products": 17964.43391860973,
+                "Natural gas": 116506.65404323008,
+                "Total": 155465.34546887444
+            }
+        }
+    },
+    "Main activity electricity plants": {
+        "values": {
+            "Crude oil": 0.30435555144094595,
+            "Oil products": 0.23963795406277463,
+            "Natural gas": 0.4215553974772449,
+            "Solar, Wind, Others": 0.7326459560792716
+        }
+    },
+    "Autoproducer electricity plants": {
+        "values": {
+            "Crude oil": 0.25366709259927944,
+            "Oil products": 0.2522580463003984,
+            "Natural gas": 0.3318291312144426
+        }
+    }
+}
