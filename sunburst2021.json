@@ -1,0 +1,524 @@
+{
+    "Crude oil": {
+        "children": [
+            {
+                "name": "Final cons...",
+                "value": 1563.7100184264984,
+                "color": "#f92716",
+                "label": "Final consumption",
+                "children": [
+                    {
+                        "name": "Industry...",
+                        "value": 1563.7100184264984,
+                        "color": "#7bf26f",
+                        "label": "Industry",
+                        "children": [
+                            {
+                                "name": "Non-metall...",
+                                "value": 1563.7100184264984,
+                                "color": "#c57a81",
+                                "label": "Non-metallic minerals"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Electricit...",
+                "value": 66052.65767802706,
+                "color": "#a2de33",
+                "label": "Electricity output in GWh",
+                "children": [
+                    {
+                        "name": "Elec outpu...",
+                        "value": 45058.40017099242,
+                        "color": "#ad6e2c",
+                        "label": "Elec output-main activity producer ele plants"
+                    },
+                    {
+                        "name": "Elec outpu...",
+                        "value": 20994.257507034632,
+                        "color": "#9d887c",
+                        "label": "Elec output-autoproducer electricity plants"
+                    },
+                    {
+                        "name": "Main activ...",
+                        "value": 0.30435555144094595,
+                        "color": "#f548f4",
+                        "label": "Main activity electricity plants"
+                    },
+                    {
+                        "name": "Autoproduc...",
+                        "value": 0.25366709259927944,
+                        "color": "#72bc0",
+                        "label": "Autoproducer electricity plants"
+                    }
+                ]
+            }
+        ]
+    },
+    "Oil products": {
+        "children": [
+            {
+                "name": "Final cons...",
+                "value": 95181.49019804221,
+                "color": "#f0816b",
+                "label": "Final consumption",
+                "children": [
+                    {
+                        "name": "Industry...",
+                        "value": 6379.465723771368,
+                        "color": "#e31f69",
+                        "label": "Industry",
+                        "children": [
+                            {
+                                "name": "Non-metall...",
+                                "value": 2496.417311550588,
+                                "color": "#8cd608",
+                                "label": "Non-metallic minerals"
+                            },
+                            {
+                                "name": "Non-specif...",
+                                "value": 3883.0484122207804,
+                                "color": "#676719",
+                                "label": "Non-specified (Industry)"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Transport...",
+                        "value": 44185.70047865854,
+                        "color": "#fb5035",
+                        "label": "Transport",
+                        "children": [
+                            {
+                                "name": "Road...",
+                                "value": 37845.85359782713,
+                                "color": "#4c9fff",
+                                "label": "Road"
+                            },
+                            {
+                                "name": "Domestic a...",
+                                "value": 1198.940124547021,
+                                "color": "#45a8bd",
+                                "label": "Domestic aviation"
+                            },
+                            {
+                                "name": "Rail...",
+                                "value": 4698.145426165633,
+                                "color": "#481990",
+                                "label": "Rail"
+                            },
+                            {
+                                "name": "Domestic n...",
+                                "value": 442.7613301187485,
+                                "color": "#bd408a",
+                                "label": "Domestic navigation"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Other...",
+                        "value": 5932.082904564252,
+                        "color": "#b8d3dd",
+                        "label": "Other",
+                        "children": [
+                            {
+                                "name": "Residentia...",
+                                "value": 1226.108006114455,
+                                "color": "#54ea74",
+                                "label": "Residential"
+                            },
+                            {
+                                "name": "Agricultur...",
+                                "value": 4132.274783849472,
+                                "color": "#9a1082",
+                                "label": "Agriculture/forestry"
+                            },
+                            {
+                                "name": "Fishing...",
+                                "value": 573.7001146003246,
+                                "color": "#76feb8",
+                                "label": "Fishing"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Non-energy...",
+                        "value": 38684.24109104806,
+                        "color": "#47a91",
+                        "label": "Non-energy use",
+                        "children": [
+                            {
+                                "name": "Non-energy...",
+                                "value": 38684.24109104806,
+                                "color": "#f93dce",
+                                "label": "Non-energy use industry/transformation/energy"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Electricit...",
+                "value": 61369.58353120365,
+                "color": "#380ecd",
+                "label": "Electricity output in GWh",
+                "children": [
+                    {
+                        "name": "Elec outpu...",
+                        "value": 43405.149612593916,
+                        "color": "#c4c049",
+                        "label": "Elec output-main activity producer ele plants"
+                    },
+                    {
+                        "name": "Elec outpu...",
+                        "value": 17964.43391860973,
+                        "color": "#b8933f",
+                        "label": "Elec output-autoproducer electricity plants"
+                    },
+                    {
+                        "name": "Main activ...",
+                        "value": 0.23963795406277463,
+                        "color": "#5c42c",
+                        "label": "Main activity electricity plants"
+                    },
+                    {
+                        "name": "Autoproduc...",
+                        "value": 0.2522580463003984,
+                        "color": "#a158a1",
+                        "label": "Autoproducer electricity plants"
+                    }
+                ]
+            }
+        ]
+    },
+    "Natural gas": {
+        "children": [
+            {
+                "name": "Final cons...",
+                "value": 24783.72775508248,
+                "color": "#3fe3aa",
+                "label": "Final consumption",
+                "children": [
+                    {
+                        "name": "Industry...",
+                        "value": 14876.590005727478,
+                        "color": "#2d8203",
+                        "label": "Industry",
+                        "children": [
+                            {
+                                "name": "Chemical a...",
+                                "value": 12863.426020829998,
+                                "color": "#a68d08",
+                                "label": "Chemical and petrochemical"
+                            },
+                            {
+                                "name": "Non-metall...",
+                                "value": 2013.1639848974792,
+                                "color": "#64baab",
+                                "label": "Non-metallic minerals"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Non-energy...",
+                        "value": 9907.137749355003,
+                        "color": "#145277",
+                        "label": "Non-energy use",
+                        "children": [
+                            {
+                                "name": "Non-energy...",
+                                "value": 9907.137749355003,
+                                "color": "#60b9f9",
+                                "label": "Non-energy use industry/transformation/energy"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Electricit...",
+                "value": 246229.75879076927,
+                "color": "#8ddda",
+                "label": "Electricity output in GWh",
+                "children": [
+                    {
+                        "name": "Elec outpu...",
+                        "value": 129723.10474753918,
+                        "color": "#302da6",
+                        "label": "Elec output-main activity producer ele plants"
+                    },
+                    {
+                        "name": "Elec outpu...",
+                        "value": 116506.65404323008,
+                        "color": "#75ca44",
+                        "label": "Elec output-autoproducer electricity plants"
+                    },
+                    {
+                        "name": "Main activ...",
+                        "value": 0.4215553974772449,
+                        "color": "#9fa9af",
+                        "label": "Main activity electricity plants"
+                    },
+                    {
+                        "name": "Autoproduc...",
+                        "value": 0.3318291312144426,
+                        "color": "#ffdc6d",
+                        "label": "Autoproducer electricity plants"
+                    }
+                ]
+            }
+        ]
+    },
+    "Solar, Wind, Others": {
+        "children": [
+            {
+                "name": "Electricit...",
+                "value": 829,
+                "color": "#a384c4",
+                "label": "Electricity output in GWh",
+                "children": [
+                    {
+                        "name": "Elec outpu...",
+                        "value": 829,
+                        "color": "#d0aa72",
+                        "label": "Elec output-main activity producer ele plants"
+                    },
+                    {
+                        "name": "Main activ...",
+                        "value": 0.7326459560792716,
+                        "color": "#273fcc",
+                        "label": "Main activity electricity plants"
+                    }
+                ]
+            }
+        ]
+    },
+    "Biofuels and waste": {
+        "children": [
+            {
+                "name": "Final cons...",
+                "value": 116.53640011464603,
+                "color": "#cb7f53",
+                "label": "Final consumption",
+                "children": [
+                    {
+                        "name": "Other...",
+                        "value": 116.53640011464603,
+                        "color": "#6eaba6",
+                        "label": "Other",
+                        "children": [
+                            {
+                                "name": "Residentia...",
+                                "value": 116.53640011464603,
+                                "color": "#4a9daf",
+                                "label": "Residential"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Electricity": {
+        "children": [
+            {
+                "name": "Final cons...",
+                "value": 24047.939220314358,
+                "color": "#2788db",
+                "label": "Final consumption",
+                "children": [
+                    {
+                        "name": "Industry...",
+                        "value": 4250.701838757352,
+                        "color": "#16a800",
+                        "label": "Industry",
+                        "children": [
+                            {
+                                "name": "Non-specif...",
+                                "value": 4250.701838757352,
+                                "color": "#9751e",
+                                "label": "Non-specified (Industry)"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Other...",
+                        "value": 19797.237381557006,
+                        "color": "#f194f6",
+                        "label": "Other",
+                        "children": [
+                            {
+                                "name": "Residentia...",
+                                "value": 11018.118975285124,
+                                "color": "#36ec0f",
+                                "label": "Residential"
+                            },
+                            {
+                                "name": "Commercial...",
+                                "value": 7272.048086661307,
+                                "color": "#8c4b9a",
+                                "label": "Commercial and public services"
+                            },
+                            {
+                                "name": "Agricultur...",
+                                "value": 428.6158048517627,
+                                "color": "#f233bd",
+                                "label": "Agriculture/forestry"
+                            },
+                            {
+                                "name": "Non-specif...",
+                                "value": 1078.4545147588135,
+                                "color": "#2b209a",
+                                "label": "Non-specified (other)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Total": {
+        "children": [
+            {
+                "name": "Final cons...",
+                "value": 145693.4035919802,
+                "color": "#921ec2",
+                "label": "Final consumption",
+                "children": [
+                    {
+                        "name": "Industry...",
+                        "value": 27070.467586682695,
+                        "color": "#f7fcf5",
+                        "label": "Industry",
+                        "children": [
+                            {
+                                "name": "Chemical a...",
+                                "value": 12863.426020829998,
+                                "color": "#99fc91",
+                                "label": "Chemical and petrochemical"
+                            },
+                            {
+                                "name": "Non-metall...",
+                                "value": 6073.291314874566,
+                                "color": "#bf7776",
+                                "label": "Non-metallic minerals"
+                            },
+                            {
+                                "name": "Non-specif...",
+                                "value": 8133.750250978132,
+                                "color": "#b574a6",
+                                "label": "Non-specified (Industry)"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Transport...",
+                        "value": 44185.70047865854,
+                        "color": "#6348de",
+                        "label": "Transport",
+                        "children": [
+                            {
+                                "name": "Road...",
+                                "value": 37845.85359782713,
+                                "color": "#82aeec",
+                                "label": "Road"
+                            },
+                            {
+                                "name": "Domestic a...",
+                                "value": 1198.940124547021,
+                                "color": "#e89b7f",
+                                "label": "Domestic aviation"
+                            },
+                            {
+                                "name": "Rail...",
+                                "value": 4698.145426165633,
+                                "color": "#bc1032",
+                                "label": "Rail"
+                            },
+                            {
+                                "name": "Domestic n...",
+                                "value": 442.7613301187485,
+                                "color": "#4dab01",
+                                "label": "Domestic navigation"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Other...",
+                        "value": 25845.856686235904,
+                        "color": "#8adfcc",
+                        "label": "Other",
+                        "children": [
+                            {
+                                "name": "Residentia...",
+                                "value": 12360.763381514225,
+                                "color": "#e16ae5",
+                                "label": "Residential"
+                            },
+                            {
+                                "name": "Commercial...",
+                                "value": 7272.048086661307,
+                                "color": "#d4e869",
+                                "label": "Commercial and public services"
+                            },
+                            {
+                                "name": "Agricultur...",
+                                "value": 4560.890588701235,
+                                "color": "#636852",
+                                "label": "Agriculture/forestry"
+                            },
+                            {
+                                "name": "Fishing...",
+                                "value": 573.7001146003246,
+                                "color": "#5a7c75",
+                                "label": "Fishing"
+                            },
+                            {
+                                "name": "Non-specif...",
+                                "value": 1078.4545147588135,
+                                "color": "#a3dd1c",
+                                "label": "Non-specified (other)"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Non-energy...",
+                        "value": 48591.378840403064,
+                        "color": "#c5e5c1",
+                        "label": "Non-energy use",
+                        "children": [
+                            {
+                                "name": "Non-energy...",
+                                "value": 48591.378840403064,
+                                "color": "#2bfffc",
+                                "label": "Non-energy use industry/transformation/energy"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Electricit...",
+                "value": 374481,
+                "color": "#4dec9",
+                "label": "Electricity output in GWh",
+                "children": [
+                    {
+                        "name": "Elec outpu...",
+                        "value": 219015.6545311255,
+                        "color": "#4cf15c",
+                        "label": "Elec output-main activity producer ele plants"
+                    },
+                    {
+                        "name": "Elec outpu...",
+                        "value": 155465.34546887444,
+                        "color": "#c23d60",
+                        "label": "Elec output-autoproducer electricity plants"
+                    }
+                ]
+            }
+        ]
+    }
+}
